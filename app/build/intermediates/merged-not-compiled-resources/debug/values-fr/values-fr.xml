@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nouvelle notification</item>
+    <item quantity="other">%d nouvelles notifications</item>
+  </plurals>
+    <string name="Branch">Marque</string>
+    <string name="Closing_Method">Méthode de clôture</string>
+    <string name="Hardware">Matériel</string>
+    <string name="Please_feedback">Commentez s\'il vous plait</string>
+    <string name="Radio">Radio</string>
+    <string name="Successfully">Avec succès</string>
+    <string name="Tags">Mots clés</string>
+    <string name="Time">Temps</string>
+    <string name="Type">Taper</string>
+    <string name="User">Utilisateur</string>
+    <string name="_10_seconds">10 secondes</string>
+    <string name="_15_seconds">15 secondes</string>
+    <string name="_20_seconds">20 secondes</string>
+    <string name="_25_seconds">25 secondes</string>
+    <string name="_30_seconds">30 secondes</string>
+    <string name="_5_seconds">5 secondes</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NON"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"OUI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="about">À propos de</string>
+    <string name="add_gif">Ajouter un GIF</string>
+    <string name="added_from_library">Ajouté à partir de la bibliothèque</string>
+    <string name="alarm">Alarme</string>
+    <string name="alarm_management">Gestion des alarmes</string>
+    <string name="all">Tous</string>
+    <string name="allow">Permettre</string>
+    <string name="always">Toujours</string>
+    <string name="animal">Animal</string>
+    <string name="animal2">Animations Animalières</string>
+    <string name="animation">Animation</string>
+    <string name="animation_content">Contenu animé</string>
+    <string name="animation_ndownload">Animation\nTélécharger</string>
+    <string name="anime">Anime</string>
+    <string name="apply_animation">Appliquer l\'animation</string>
+    <string name="apply_settings">Appliquer les paramètres</string>
+    <string name="battery">La batterie</string>
+    <string name="battery_charging2">Batterie en charge</string>
+    <string name="battery_information">Informations sur la batterie</string>
+    <string name="battery_ninformation">Informations\nsur la batterie</string>
+    <string name="battery_notification">Notification de batterie</string>
+    <string name="battery_remaining_less_than_20_tap_to_stop_ringtone">Batterie restante inférieure à 20 %, appuyez pour arrêter la sonnerie</string>
+    <string name="battery_status">État de la batterie</string>
+    <string name="black">Noir</string>
+    <string name="boot_loader">Chargeur de démarrage</string>
+    <string name="both">Les deux</string>
+    <string name="bottomsheet_action_collapse">Réduire la bottom sheet</string>
+    <string name="bottomsheet_action_expand">Développer la bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
+    <string name="bottomsheet_drag_handle_clicked">A appuyé deux fois sur la poignée de déplacement</string>
+    <string name="bottomsheet_drag_handle_content_description">Poignée de déplacement</string>
+    <string name="broad">Vaste</string>
+    <string name="btnCanse">Annuler</string>
+    <string name="btnYes">Oui</string>
+    <string name="button_rating_done">Merci!</string>
+    <string name="button_rating_none">Évaluez nous</string>
+    <string name="button_rating_not">Pas maintenant</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Répondre"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vidéo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Refuser"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Raccrocher"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Appel entrant"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Appel en cours"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrage d\'un appel entrant"</string>
+    <string name="cancel2">Annuler</string>
+    <string name="capacity">Capacité</string>
+    <string name="cat">Chat</string>
+    <string name="categories">Catégories</string>
+    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="charging">Mise en charge</string>
+    <string name="charging_animation">Animation de charge</string>
+    <string name="charging_animation_requires_permission_to_use_the_storage_and_screen_permissions">L\'animation de chargement nécessite l\'autorisation d\'utiliser les autorisations de stockage et d\'écran</string>
+    <string name="charging_nalarm">Chargement Alarme.</string>
+    <string name="charging_nanimation">Chargement\nAnimation</string>
+    <string name="charging_type">Type de charge</string>
+    <string name="chill">Froideur</string>
+    <string name="christmas">Noël</string>
+    <string name="christmas2">Animations de Noël</string>
+    <string name="circle">Cercle</string>
+    <string name="circle2">Animation de cercle</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+    <string name="common_google_play_services_unknown_issue">L\'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer.</string>
+    <string name="congratulations">Toutes nos félicitations!</string>
+    <string name="continue2">Continuer</string>
+    <string name="cpu">Capacité du processeur</string>
+    <string name="cpu2">Processeur abi2</string>
+    <string name="creator">Créateur</string>
+    <string name="custom_animation">Animation personnalisée</string>
+    <string name="custom_nanimation">Animation personnalisée</string>
+    <string name="custom_nanimation2">Animation personnalisée</string>
+    <string name="custom_now">Personnalisé maintenant</string>
+    <string name="customed">Coutume</string>
+    <string name="customize">Personnaliser</string>
+    <string name="customize_your_charging_screen">Personnalisez votre écran de chargement</string>
+    <string name="customized3">Personnalisé</string>
+    <string name="device">Dispositif</string>
+    <string name="device_information">Informations sur l\'appareil</string>
+    <string name="device_ninformation">Informations\nsur l\'appareil</string>
+    <string name="diamond">diamant</string>
+    <string name="diamond2">Animation de diamant</string>
+    <string name="disable">Désactiver</string>
+    <string name="discard">Jeter</string>
+    <string name="display">Affichage</string>
+    <string name="do_you_want_to_access_the_application_when_granting_permission_some_functions_may_not_work">Voulez-vous accéder à l\'application lors de l\'octroi de l\'autorisation, certaines fonctions peuvent ne pas fonctionner</string>
+    <string name="do_you_want_to_exit">Voulez-vous sortir?</string>
+    <string name="done">Fait</string>
+    <string name="double_tap_to_hide">Appuyez deux fois pour masquer</string>
+    <string name="down_not">La version actuelle ne prend pas en charge le téléchargement</string>
+    <string name="downing">Veuillez attendre la fin du téléchargement</string>
+    <string name="download">Télécharger</string>
+    <string name="download_animation">Télécharger l\'animation</string>
+    <string name="downloaded">Animation téléchargée</string>
+    <string name="downloaded2">Téléchargé</string>
+    <string name="downloaded3">Téléchargé</string>
+    <string name="downloaded_fail">Échec du téléchargement</string>
+    <string name="downloaded_success">Succès téléchargé</string>
+    <string name="emoji">Émoji</string>
+    <string name="emoji2">Animation d\'émojis</string>
+    <string name="enable_alarm_on_full_battery">Activer l\'alarme en cas de batterie pleine</string>
+    <string name="enable_animation">Activer l\'animation</string>
+    <string name="enable_permission">Vous devez autoriser cette autorisation pour utiliser nos fonctionnalités</string>
+    <string name="enjoying_battery_charging">Vous aimez recharger la batterie ?</string>
+    <string name="error">Une erreur est survenue</string>
+    <string name="error_a11y_label">Erreur : Non valide</string>
+    <string name="error_icon_content_description">Erreur</string>
+    <string name="exit">Vous souhaitez quitter l\'application</string>
+    <string name="exit3">Sortie</string>
+    <string name="explore_more_animation">Explorez plus d\'animations</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="express_your_signature_style_with_a_unique_animated_charging_screen_showcasing_your_personality_every_time">Exprimez votre style signature avec un écran de chargement animé unique mettant en valeur votre personnalité à chaque fois.</string>
+    <string name="fantasy">Fantaisie</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="find_animation">Trouver une animation</string>
+    <string name="fire">Feu</string>
+    <string name="flower">Fleur</string>
+    <string name="food">Aliments</string>
+    <string name="food2">Animations culinaires</string>
+    <string name="for_android">Pour Android</string>
+    <string name="for_supporting_our_service">Pour soutenir notre service !</string>
+    <string name="from_animation">De l\'animation</string>
+    <string name="from_device_library">À partir de la bibliothèque de périphériques</string>
+    <string name="full_charging_tap_to_stop_ringtone">Chargement complet, appuyez pour arrêter la sonnerie</string>
+    <string name="fully_charged">Complètement chargé</string>
+    <string name="gallery">Galerie</string>
+    <string name="gallery_animations">Animations de la galerie</string>
+    <string name="gallery_animations2">Animations \nde la galerie</string>
+    <string name="get_notified_with_alerts_when_your_battery_is_low_or_fully_charged_for_convenience">Recevez des alertes lorsque votre batterie est faible ou complètement chargée pour plus de commodité.</string>
+    <string name="go">Aller</string>
+    <string name="go_to_alarm_setting">Accédez au paramètre d\'alarme</string>
+    <string name="go_to_settings">Aller aux paramètres</string>
+    <string name="good">Bien</string>
+    <string name="hand_drawing">Dessin à main levée</string>
+    <string name="heart">Cœur</string>
+    <string name="heart2">Animation Coeur</string>
+    <string name="height_battery_percentage">Hauteur Batterie Pourcentage</string>
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour deuxième fragment. Arg : %1$s</string>
+    <string name="heroes">Héros</string>
+    <string name="heroes2">Animations de héros</string>
+    <string name="hide_every_1_minute">Masquer toutes les minutes</string>
+    <string name="hide_every_2_minutes">Masquer toutes les 2 minutes</string>
+    <string name="hide_every_3_minutes">Masquer toutes les 3 minutes</string>
+    <string name="high_temperature">Haute température</string>
+    <string name="home">Maison</string>
+    <string name="home_screen">Écran d\'accueil</string>
+    <string name="horror">Horreur</string>
+    <string name="host">Héberger</string>
+    <string name="how_was_your_experience_with_battery_charging">Comment s\'est déroulée votre expérience avec \nLe chargement de la batterie ?</string>
+    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="id">Identifiant</string>
+    <string name="info">Informations</string>
+    <string name="info_battery">Informations Batterie</string>
+    <string name="info_device">Appareil d\'information</string>
+    <string name="information">Information</string>
+    <string name="intro_1">Personnalisez votre écran de chargement avec \nune animation cool.</string>
+    <string name="intro_2">Recevez des alertes lorsque la batterie de votre téléphone est complètement chargée, ainsi que lorsqu\'elle est faible.</string>
+    <string name="intro_3">Les informations sur le mobile, l\'appareil et la batterie \nsont visibles.</string>
+    <string name="item_view_role_description">Tabulation</string>
+    <string name="keep_service_always_alive">Gardez le service toujours actif</string>
+    <string name="language">Langue</string>
+    <string name="later">Plus tard</string>
+    <string name="loading">Chargement</string>
+    <string name="lock_screen">Écran verrouillé</string>
+    <string name="lofi">Lofi</string>
+    <string name="low">Bas</string>
+    <string name="low_battery_below_20">Batterie faible inférieure à 20 %</string>
+    <string name="manufacture">Fabrication</string>
+    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s heures</string>
+    <string name="material_hour_selection">Sélectionnez une heure</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Sélectionner des minutes</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passer en mode horloge pour la saisie de l\'heure.</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Sélectionner l\'heure</string>
+    <string name="material_timepicker_text_input_mode_description">Passer en mode saisie de texte pour la saisie de l\'heure.</string>
+    <string name="minute_1">1 minute</string>
+    <string name="model">Modèle</string>
+    <string name="more">SUITE</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_checkbox_state_description_checked">Cochée</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partiellement cochée</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Non cochée</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_range_selection">Date de début sélectionnée : %1$s – Date de fin sélectionnée : %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">aucune</string>
+    <string name="mtrl_picker_cancel">Annuler</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Date de fin : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Accéder à l\'année en cours : %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Accéder à l\'année %1$d</string>
+    <string name="mtrl_picker_out_of_range">Hors limite : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_start_date_description">Date de début : %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Aujourd\'hui : %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Appuyer pour passer à la vue \"Agenda\"</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour passer à la vue \"Année\"</string>
+    <string name="mtrl_timepicker_cancel">Annuler</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Remonter"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Ouvrir le panneau de navigation"</string>
+    <string name="neon">Néon</string>
+    <string name="next">Prochain</string>
+    <string name="no_data">Pas de données</string>
+    <string name="no_gif">Pas de GIF</string>
+    <string name="no_gif2">Pas de GIF</string>
+    <string name="no_internet">Pas d\'Internet!</string>
+    <string name="none">Aucun</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permission">Autorisation</string>
+    <string name="permission_is_not_allowed">L\'autorisation n\'est pas autorisée</string>
+    <string name="please">Écrivez s\'il vous plait…</string>
+    <string name="please_send_us_some_feedback">S\'il vous plaît envoyez-nous vos commentaires!</string>
+    <string name="press">Appuyez sur le bouton "+" pour ajouter une nouvelle alarme.</string>
+    <string name="press_button_to_download_new_animation">Appuyez sur le bouton pour télécharger une nouvelle animation.</string>
+    <string name="preview">Aperçu</string>
+    <string name="privacy_policy">politique de confidentialité</string>
+    <string name="privacy_policy_under"><u>Politique de confidentialité</u></string>
+    <string name="product">Produit</string>
+    <string name="rate">Évaluer</string>
+    <string name="recently_download">Téléchargement récent</string>
+    <string name="recommend">Recommander</string>
+    <string name="retry">Recommencez</string>
+    <string name="ringtone">Sonnerie</string>
+    <string name="screen_permission">Autorisation d\'écran</string>
+    <string name="sdk">SDK</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
+    <string name="searchview_clear_text_content_description">Effacer le texte</string>
+    <string name="searchview_navigation_content_description">Retour</string>
+    <string name="select">Sélectionner</string>
+    <string name="select_animation_time_duration">Sélectionnez la durée de l\'animation</string>
+    <string name="select_option">SÉLECTIONNER UNE OPTION</string>
+    <string name="select_ringtones">Sélectionnez les sonneries</string>
+    <string name="send">Envoyer</string>
+    <string name="set_animation_successfully">Réglez l\'animation avec succès !</string>
+    <string name="set_wallpaper">Définir le papier peint</string>
+    <string name="settings">Réglages</string>
+    <string name="share">Partager</string>
+    <string name="side_sheet_accessibility_pane_title">Feuille latérale</string>
+    <string name="single_tap_to_hide">Un seul clic pour masquer</string>
+    <string name="skip_for_now">Ignorer pour l\'instant</string>
+    <string name="square">Carré</string>
+    <string name="square2">Animation carrée</string>
+    <string name="staer">Commencer!</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage">Stockage</string>
+    <string name="submit">Soumettre</string>
+    <string name="technology">Technologie</string>
+    <string name="temperature">Température</string>
+    <string name="temperature_greater_than_60_degrees_celsius_tap_to_stop_ringtone">Température supérieure à 60 degrés Celsius, appuyez pour arrêter la sonnerie</string>
+    <string name="thank_you">Merci!</string>
+    <string name="thank_you_for_rating">Merci pour votre évaluation</string>
+    <string name="the_information">L\'information.</string>
+    <string name="the_ninfo">L\' Info.</string>
+    <string name="there_is_no_internet_connection_please_check_your_internet_connection">Il n\'y a pas de connexion Internet. Veuillez vérifier votre connexion Internet.</string>
+    <string name="this_action_can_contain_ads">Cette action peut contenir des publicités...</string>
+    <string name="turn">Tour</string>
+    <string name="turn_battery_service">Activer le service de batterie</string>
+    <string name="tutorial_title_1">Écran d\'animation.</string>
+    <string name="tv_rating_content_1">Si vous appréciez cette animation de charge, pourriez-vous \nnous évaluer sur Google Play ?</string>
+    <string name="tv_rating_title_0">Votre avis compte pour nous !</string>
+    <string name="user_s_nphone">Téléphone\nde l\'utilisateur</string>
+    <string name="version">Version</string>
+    <string name="view2">Voir maintenant?</string>
+    <string name="view_ads_will_be_saved_charging_animation_nwallpaper_and_that_is_the_bonus_for_our_author_n_nview_now">Les annonces de visualisation seront enregistrées en chargeant l\'animation \nwallpaper et c\'est le bonus pour notre auteur.</string>
+    <string name="voltage">Tension</string>
+    <string name="waring">Attention</string>
+    <string name="watch_a_video_to_start_downloading_your_photo">Regardez une vidéo pour commencer à télécharger votre photo.</string>
+    <string name="watch_ads">Regarder les annonces</string>
+    <string name="watch_video">Regarder la vidéo</string>
+    <string name="write_some_feedback">Rédigez des commentaires</string>
+    <string name="you_have_set_up_successfully">Vous avez configuré avec succès.\nActivez l\'autorisation de superposition pour utiliser\nla fonction de verrouillage de l\'écran.</string>
+    <string name="you_haven_t_customed_any_animations_yet_let_s_find_more">Vous n\'avez pas encore personnalisé d\'animations ! Trouvons plus !</string>
+    <string name="you_haven_t_downloaded_any_animations_yet_let_s_find_more">Vous n\'avez pas encore téléchargé d\'animations ! Trouvons plus !</string>
+    <string name="your_animation_has_been_set_successfully">Votre animation a été définie avec succès !</string>
+</resources>

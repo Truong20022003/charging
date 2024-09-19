@@ -1,0 +1,127 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+    id 'kotlin-parcelize'
+}
+
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.charging.animation.mobile.battery"
+        minSdk 21
+        targetSdk 34
+        versionCode 100
+        versionName "1.0.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        def formattedDate = new Date().format('MM.dd.yyyy')
+        archivesBaseName = "ChargingAnimation_v${versionName}_${formattedDate}"
+    }
+
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    kapt {
+        correctErrorTypes true
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = true
+        }
+        abi {
+            enableSplit = true
+        }
+    }
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.13.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.activity:activity:1.8.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    implementation 'com.github.fiftyonemoon:Rapid:1.0.3.8'
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    // sdp
+    implementation 'com.intuit.sdp:sdp-android:1.1.1'
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
+    // lifecycle
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.7.0"
+    implementation "androidx.activity:activity-ktx:1.9.0"
+    implementation "androidx.fragment:fragment-ktx:1.7.0"
+    // dot viewpager
+    implementation("com.tbuonomo:dotsindicator:4.3")
+    // seekbar
+    implementation 'com.github.zhouzhuo810:ZzHorizontalProgressBar:1.1.1'
+
+
+    implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.9'
+    implementation 'com.tbuonomo:dotsindicator:4.3'
+
+    // play core
+    implementation("com.google.android.play:review:2.0.1")
+
+    implementation 'androidx.work:work-runtime-ktx:2.7.0'
+
+    implementation 'com.google.guava:guava:27.0.1-android'
+    implementation 'androidx.room:room-runtime:2.6.1'
+    implementation "androidx.room:room-ktx:2.6.1"
+    kapt "androidx.room:room-compiler:2.6.1"
+    //multidex
+    implementation "androidx.multidex:multidex:2.0.1"
+    def lottieVersion = "3.4.0"
+    implementation "com.airbnb.android:lottie:$lottieVersion"
+
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.28'
+    // tuan add
+    implementation 'com.github.Dimezis:BlurView:version-2.0.3'
+    implementation 'com.mikhaellopez:circularprogressbar:3.1.0'
+
+    // retrofit
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    implementation "com.squareup.retrofit2:converter-gson:2.9.0"
+    implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
+    // okh
+    implementation(platform("com.squareup.okhttp3:okhttp-bom:4.9.0"))
+    implementation("com.squareup.okhttp3:okhttp")
+    implementation("com.squareup.okhttp3:logging-interceptor")
+
+
+
+
+}

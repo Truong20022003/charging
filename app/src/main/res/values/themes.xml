@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ChargingAnimation" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_090327</item>
+        <item name="colorPrimaryVariant">@color/color_090327</item>
+        <item name="colorOnPrimary">@color/color_090327</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/color_090327</item>
+        <item name="colorSecondaryVariant">@color/color_090327</item>
+        <item name="colorOnSecondary">@color/color_090327</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >@color/color_090327</item>
+        <item name="android:windowBackground">@color/color_090327</item>
+        <item name="android:navigationBarColor">@color/color_090327</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ChargingAnimation.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ChargingAnimation.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.ChargingAnimation.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string name="Branch">Marke</string>
+    <string name="Closing_Method">Methode zum Schließen</string>
+    <string name="Hardware">Hardware</string>
+    <string name="Please_feedback">Bitte Feedback</string>
+    <string name="Radio">Radio</string>
+    <string name="Successfully">Erfolgreich</string>
+    <string name="Tags">Stichworte</string>
+    <string name="Time">Zeit</string>
+    <string name="Type">Typ</string>
+    <string name="User">Benutzer</string>
+    <string name="_10_seconds">10 Sekunden</string>
+    <string name="_15_seconds">15 Sekunden</string>
+    <string name="_20_seconds">20 Sekunden</string>
+    <string name="_25_seconds">25 Sekunden</string>
+    <string name="_30_seconds">30 Sekunden</string>
+    <string name="_5_seconds">5 Sekunden</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Um</string>
+    <string name="add_gif">Gif hinzufügen</string>
+    <string name="added_from_library">Aus Bibliothek hinzugefügt</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_management">Alarmverwaltung</string>
+    <string name="all">Alle</string>
+    <string name="allow">Erlauben</string>
+    <string name="always">Stets</string>
+    <string name="animal">Tier</string>
+    <string name="animal2">Tieranimation</string>
+    <string name="animation">Animation</string>
+    <string name="animation_content">Animationsinhalt</string>
+    <string name="animation_ndownload">Animation\nHerunterladen</string>
+    <string name="anime">Anime</string>
+    <string name="apply_animation">Animation anwenden</string>
+    <string name="apply_settings">Einstellungen übernehmen</string>
+    <string name="battery">Batterie</string>
+    <string name="battery_charging2">Akku wird aufgeladen</string>
+    <string name="battery_information">Batterieinformationen</string>
+    <string name="battery_ninformation">Batterie\nInformationen</string>
+    <string name="battery_notification">Akkubenachrichtigung</string>
+    <string name="battery_remaining_less_than_20_tap_to_stop_ringtone">Der Akkustand beträgt weniger als 20 %. Tippen Sie, um den Klingelton zu stoppen</string>
+    <string name="battery_status">Batteriestatus</string>
+    <string name="black">Schwarz</string>
+    <string name="boot_loader">Bootloader</string>
+    <string name="both">Beide</string>
+    <string name="bottomsheet_action_collapse">Ansicht am unteren Rand minimieren</string>
+    <string name="bottomsheet_action_expand">Ansicht am unteren Rand maximieren</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="bottomsheet_drag_handle_clicked">Auf Ziehpunkt doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_content_description">Ziehpunkt</string>
+    <string name="broad">Breit</string>
+    <string name="btnCanse">Absagen</string>
+    <string name="btnYes">Ja</string>
+    <string name="button_rating_done">Vielen Dank!</string>
+    <string name="button_rating_none">Bewerten Sie uns</string>
+    <string name="button_rating_not">Nicht jetzt</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Annehmen"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Ablehnen"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Auflegen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Eingehender Anruf"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Aktueller Anruf"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filter für eingehenden Anruf"</string>
+    <string name="cancel2">Abbrechen</string>
+    <string name="capacity">Kapazität</string>
+    <string name="cat">Katze</string>
+    <string name="categories">Kategorien</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="charging">Laden</string>
+    <string name="charging_animation">Ladeanimation</string>
+    <string name="charging_animation_requires_permission_to_use_the_storage_and_screen_permissions">Für die Ladeanimation ist die Berechtigung zur Nutzung der Speicher- und Bildschirmberechtigungen erforderlich</string>
+    <string name="charging_nalarm">Aufladen Alarm.</string>
+    <string name="charging_nanimation">Aufladen\nAnimation</string>
+    <string name="charging_type">Ladetyp</string>
+    <string name="chill">Chill</string>
+    <string name="christmas">Weihnachten</string>
+    <string name="christmas2">Weihnachtsanimation</string>
+    <string name="circle">Kreis</string>
+    <string name="circle2">Kreisanimation</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.</string>
+    <string name="congratulations">Herzlichen Glückwunsch!</string>
+    <string name="continue2">Weiter</string>
+    <string name="cpu">CPU-Abi</string>
+    <string name="cpu2">CPU-abi2</string>
+    <string name="creator">Creator</string>
+    <string name="custom_animation">Benutzerdefinierte Animation</string>
+    <string name="custom_nanimation">Benutzerdefiniert\Animation</string>
+    <string name="custom_nanimation2">Benutzerdefinierte Animation</string>
+    <string name="custom_now">Jetzt individuell</string>
+    <string name="customed">Brauch</string>
+    <string name="customize">Anpassen</string>
+    <string name="customize_your_charging_screen">Passen Sie Ihren Ladebildschirm an</string>
+    <string name="customized3">Angepasst</string>
+    <string name="device">Gerät</string>
+    <string name="device_information">Geräteinformation</string>
+    <string name="device_ninformation">Geräte\nInformationen</string>
+    <string name="diamond">Diamant</string>
+    <string name="diamond2">Diamant-Animation</string>
+    <string name="disable">Deaktivieren</string>
+    <string name="discard">Verwerfen</string>
+    <string name="display">Anzeige</string>
+    <string name="do_you_want_to_access_the_application_when_granting_permission_some_functions_may_not_work">Möchten Sie beim Erteilen der Berechtigung auf die Anwendung zugreifen, funktionieren einige Funktionen möglicherweise nicht</string>
+    <string name="do_you_want_to_exit">Möchtest du aussteigen?</string>
+    <string name="done">Fertig</string>
+    <string name="double_tap_to_hide">Zum Ausblenden doppeltippen</string>
+    <string name="down_not">Die aktuelle Version unterstützt keinen Download</string>
+    <string name="downing">Bitte warten Sie, bis der Download abgeschlossen ist</string>
+    <string name="download">Herunterladen</string>
+    <string name="download_animation">Animation herunterladen</string>
+    <string name="downloaded">Heruntergeladene Animation</string>
+    <string name="downloaded2">Heruntergeladen</string>
+    <string name="downloaded3">Heruntergeladen</string>
+    <string name="downloaded_fail">Heruntergeladen fehlgeschlagen</string>
+    <string name="downloaded_success">Heruntergeladener Erfolg</string>
+    <string name="emoji">Emoticons</string>
+    <string name="emoji2">Emoji-Animation</string>
+    <string name="enable_alarm_on_full_battery">Alarm bei voller Batterie aktivieren</string>
+    <string name="enable_animation">Animation aktivieren</string>
+    <string name="enable_permission">Sie müssen diese Erlaubnis erteilen, um unsere Funktionen nutzen zu können</string>
+    <string name="enjoying_battery_charging">Macht Ihnen das Akkuladen Spaß?</string>
+    <string name="error">Ein Fehler ist aufgetreten</string>
+    <string name="error_a11y_label">Fehler: ungültig</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="exit">Sie möchten die App beenden</string>
+    <string name="exit3">Ausfahrt</string>
+    <string name="explore_more_animation">Weitere Animationen entdecken</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="express_your_signature_style_with_a_unique_animated_charging_screen_showcasing_your_personality_every_time">Drücken Sie Ihren individuellen Stil mit einem einzigartigen animierten Ladebildschirm aus, der jedes Mal Ihre Persönlichkeit zeigt.</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="feedback">Feedback</string>
+    <string name="find_animation">Finden Sie Animation</string>
+    <string name="fire">Feuer</string>
+    <string name="flower">Blume</string>
+    <string name="food">Essen</string>
+    <string name="food2">Essensanimation</string>
+    <string name="for_android">Für Android</string>
+    <string name="for_supporting_our_service">Für die Unterstützung unseres Dienstes!</string>
+    <string name="from_animation">Von der Animation</string>
+    <string name="from_device_library">Aus der Gerätebibliothek</string>
+    <string name="full_charging_tap_to_stop_ringtone">Voll aufgeladen, tippen Sie, um den Klingelton zu stoppen</string>
+    <string name="fully_charged">Vollständig aufgeladen</string>
+    <string name="gallery">Galerie</string>
+    <string name="gallery_animations">Galerie-Animationen</string>
+    <string name="gallery_animations2">Galerie \nAnimationen</string>
+    <string name="get_notified_with_alerts_when_your_battery_is_low_or_fully_charged_for_convenience">Lassen Sie sich bequem per Alarm benachrichtigen, wenn Ihr Akku schwach oder vollständig aufgeladen ist.</string>
+    <string name="go">Gehen</string>
+    <string name="go_to_alarm_setting">Zu den Alarmeinstellungen</string>
+    <string name="go_to_settings">Gehe zu den Einstellungen</string>
+    <string name="good">Gut</string>
+    <string name="hand_drawing">Handzeichnung</string>
+    <string name="heart">Herz</string>
+    <string name="heart2">Herz-Animation</string>
+    <string name="height_battery_percentage">Höhe Batterieprozentsatz</string>
+    <string name="hello_first_fragment">Hallo erstes Fragment</string>
+    <string name="hello_second_fragment">Hallo zweites Fragment. Argument: %1$s</string>
+    <string name="heroes">Helden</string>
+    <string name="heroes2">Helden-Animation</string>
+    <string name="hide_every_1_minute">Alle 1 Minute ausblenden</string>
+    <string name="hide_every_2_minutes">Alle 2 Minuten ausblenden</string>
+    <string name="hide_every_3_minutes">Alle 3 Minuten ausblenden</string>
+    <string name="high_temperature">Hohe Temperatur</string>
+    <string name="home">Heim</string>
+    <string name="home_screen">Startbildschirm</string>
+    <string name="horror">Horror</string>
+    <string name="host">Gastgeber</string>
+    <string name="how_was_your_experience_with_battery_charging">Wie war Ihre Erfahrung mit \nAkku wird aufgeladen?</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="id">Ausweis</string>
+    <string name="info">Die Info</string>
+    <string name="info_battery">Info Batterie</string>
+    <string name="info_device">Infogerät</string>
+    <string name="information">Informationen</string>
+    <string name="intro_1">Personalisieren Sie Ihren Ladebildschirm mit \neiner coolen Animation.</string>
+    <string name="intro_2">Erhalten Sie Benachrichtigungen, wenn der Akku Ihres Telefons vollständig aufgeladen ist, sowie wenn er niedrig ist.</string>
+    <string name="intro_3">Mobil-, Geräte-, Batterieinformationen \nkönnen angezeigt werden.</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="keep_service_always_alive">Halten Sie den Service immer am Leben</string>
+    <string name="language">Sprache</string>
+    <string name="later">Später</string>
+    <string name="loading">Wird geladen</string>
+    <string name="lock_screen">Sperrbildschirm</string>
+    <string name="lofi">Lofi</string>
+    <string name="low">Niedrig</string>
+    <string name="low_battery_below_20">Niedriger Batteriestand unter 20 %</string>
+    <string name="manufacture">Herstellung</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_24h_suffix">%1$s Stunden</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="minute_1">1 Minute</string>
+    <string name="model">Modell</string>
+    <string name="more">MEHR</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_checkbox_state_description_checked">Aktiviert</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Teilweise aktiviert</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nicht aktiviert</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_range_selection">Ausgewähltes Startdatum: %1$s – Ausgewähltes Enddatum: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">Keines</string>
+    <string name="mtrl_picker_cancel">Abbrechen</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Enddatum %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Zum aktuellen Jahr %1$d wechseln</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$d wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_today_description">Heute %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Kalenderansicht zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresansicht zu wechseln</string>
+    <string name="mtrl_timepicker_cancel">Abbrechen</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Nach oben"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Navigationsleiste öffnen"</string>
+    <string name="neon">Neon</string>
+    <string name="next">Nächste</string>
+    <string name="no_data">Keine Daten</string>
+    <string name="no_gif">Kein GIF</string>
+    <string name="no_gif2">Kein GIF</string>
+    <string name="no_internet">Kein Internet!</string>
+    <string name="none">Keiner</string>
+    <string name="not_now">Nicht jetzt</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="permission">Erlaubnis</string>
+    <string name="permission_is_not_allowed">Berechtigung ist nicht zulässig</string>
+    <string name="please">Bitte schreibe…</string>
+    <string name="please_send_us_some_feedback">Bitte senden Sie uns ein Feedback!</string>
+    <string name="press">Drücken Sie die „+“-Taste, um einen neuen Alarm hinzuzufügen.</string>
+    <string name="press_button_to_download_new_animation">Drücken Sie die Taste, um eine neue Animation herunterzuladen.</string>
+    <string name="preview">Vorschau</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="privacy_policy_under"><u>Datenschutzerklärung</u></string>
+    <string name="product">Produkt</string>
+    <string name="rate">Rate</string>
+    <string name="recently_download">Kürzlich herunterladen</string>
+    <string name="recommend">Empfehlen</string>
+    <string name="retry">Erneut versuchen</string>
+    <string name="ringtone">Klingelton</string>
+    <string name="screen_permission">Bildschirmberechtigung</string>
+    <string name="sdk">SDK</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="searchview_clear_text_content_description">Text löschen</string>
+    <string name="searchview_navigation_content_description">Zurück</string>
+    <string name="select">Auswählen</string>
+    <string name="select_animation_time_duration">Wählen Sie Animationszeitdauer</string>
+    <string name="select_option">OPTION AUSWÄHLEN</string>
+    <string name="select_ringtones">Wählen Sie Klingeltöne</string>
+    <string name="send">Senden</string>
+    <string name="set_animation_successfully">Animation erfolgreich eingestellt!</string>
+    <string name="set_wallpaper">Hintergrundbild festlegen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">Teilen</string>
+    <string name="side_sheet_accessibility_pane_title">Seitenblatt</string>
+    <string name="single_tap_to_hide">Zum Ausblenden einmal tippen</string>
+    <string name="skip_for_now">Für jetzt überspringen</string>
+    <string name="square">Quadrat</string>
+    <string name="square2">Quadratische Animation</string>
+    <string name="staer">Loslegen!</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage">Lagerung</string>
+    <string name="submit">Einreichen</string>
+    <string name="technology">Technologie</string>
+    <string name="temperature">Temperatur</string>
+    <string name="temperature_greater_than_60_degrees_celsius_tap_to_stop_ringtone">Temperatur über 60 Grad Celsius, tippen Sie, um den Klingelton zu stoppen</string>
+    <string name="thank_you">Vielen Dank!</string>
+    <string name="thank_you_for_rating">Vielen Dank für die Bewertung</string>
+    <string name="the_information">Die Information.</string>
+    <string name="the_ninfo">Die Info.</string>
+    <string name="there_is_no_internet_connection_please_check_your_internet_connection">Es besteht keine Internetverbindung. Bitte überprüfen Sie Ihre Internetverbindung.</string>
+    <string name="this_action_can_contain_ads">Diese Aktion kann Werbung enthalten...</string>
+    <string name="turn">Drehen</string>
+    <string name="turn_battery_service">Schalten Sie den Batterieservice ein</string>
+    <string name="tutorial_title_1">Animation Bildschirm.</string>
+    <string name="tv_rating_content_1">Wenn Ihnen diese Ladeanimation gefällt, \nwürden Sie uns dann bei Google Play bewerten?</string>
+    <string name="tv_rating_title_0">Ihre Meinung ist uns wichtig!</string>
+    <string name="user_s_nphone">Benutzer\nTelefon</string>
+    <string name="version">Ausführung</string>
+    <string name="view2">Jetzt ansehen?</string>
+    <string name="view_ads_will_be_saved_charging_animation_nwallpaper_and_that_is_the_bonus_for_our_author_n_nview_now">Anzeigen anzeigen werden gespeichert Ladeanimation \nHintergrundbild und das ist der Bonus für unseren Autor.</string>
+    <string name="voltage">Stromspannung</string>
+    <string name="waring">Krieg</string>
+    <string name="watch_a_video_to_start_downloading_your_photo">Sehen Sie sich ein Video an, um mit dem Herunterladen Ihres Fotos zu beginnen.</string>
+    <string name="watch_ads">Anzeigen ansehen</string>
+    <string name="watch_video">Video ansehen</string>
+    <string name="write_some_feedback">Schreiben Sie ein Feedback</string>
+    <string name="you_have_set_up_successfully">Sie haben die Einrichtung erfolgreich abgeschlossen.\nAktivieren Sie die Overlay-Berechtigung zur Verwendung\nder Bildschirmsperrfunktion.</string>
+    <string name="you_haven_t_customed_any_animations_yet_let_s_find_more">Sie haben noch keine Animationen angepasst! Finden wir mehr!</string>
+    <string name="you_haven_t_downloaded_any_animations_yet_let_s_find_more">Sie haben noch keine Animationen heruntergeladen! Finden wir mehr!</string>
+    <string name="your_animation_has_been_set_successfully">Ihre Animation wurde erfolgreich eingestellt!</string>
+</resources>

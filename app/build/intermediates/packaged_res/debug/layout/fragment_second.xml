@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:layout_height="@dimen/_140sdp">
+
+        <ImageView
+            android:id="@+id/imageView29"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/second_background" />
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="@dimen/_150sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:src="@drawable/second_background_info"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/connect"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_marginBottom="-5dp"
+            android:src="@drawable/second_background_set"
+            app:layout_constraintBottom_toTopOf="@+id/tvPin3"
+            app:layout_constraintEnd_toEndOf="@+id/tvPin3"
+            app:layout_constraintStart_toStartOf="@+id/tvPin3" />
+
+        <TextView
+            android:id="@+id/tvPin3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/sf_pro_display_bold"
+            android:text="40%"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_22sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/imageView30"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imageView30" />
+
+        <TextView
+            android:id="@+id/tvBattery"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_3sdp"
+
+            android:checked="true"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:textAlignment="center"
+            android:fontFamily="@font/sf_pro_display_bold"
+            android:freezesText="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+
+
+            android:text="@string/battery"
+            android:textAllCaps="true"
+            android:textColor="#B0FFFFFF"
+            android:textSize="@dimen/_6sdp"
+
+            app:layout_constraintEnd_toEndOf="@+id/tvPin3"
+            app:layout_constraintStart_toStartOf="@+id/tvPin3"
+            app:layout_constraintTop_toBottomOf="@+id/tvPin3" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_marginStart="-5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView30">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/battery_status"
+                    android:textColor="#D1D1D6"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+
+                    />
+
+                <TextView
+                    android:id="@+id/tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/temperature"
+                    android:textColor="#D1D1D6"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+                    />
+
+                <TextView
+                    android:id="@+id/tv3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/capacity"
+                    android:textColor="#D1D1D6"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+                    />
+
+                <TextView
+                    android:id="@+id/tv4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/technology"
+                    android:textColor="#D1D1D6"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvHeart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/good"
+                    android:textColor="#30D158"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+
+                    />
+
+                <TextView
+                    android:id="@+id/template"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="40.5 °C"
+                    android:textColor="#FF9F0A"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"/>
+
+                <TextView
+                    android:id="@+id/tvCapacity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="3000.0mah"
+                    android:textColor="#5375FF"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"/>
+
+                <TextView
+                    android:id="@+id/tvLion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_8sdp"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="Li-on"
+                    android:textColor="#FF375F"
+                    android:textSize="@dimen/_10sdp"
+
+                    android:checked="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

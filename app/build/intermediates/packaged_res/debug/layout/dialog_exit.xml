@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    app:cardCornerRadius="@dimen/_10sdp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#150F32"
+        android:padding="@dimen/_15sdp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_pro_display_bold"
+            android:text="@string/exit3"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_18sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:text="@string/exit"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_14sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/root"
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnApply"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginEnd="@dimen/_13sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="@drawable/ic_btn_not"
+                android:ellipsize="end"
+                android:fontFamily="@font/sf_pro_display_bold"
+                android:maxLines="1"
+                android:text="@string/btnCanse"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12sdp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/btnRAte"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnRAte"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginEnd="@dimen/_13sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="@drawable/bg_btn_done"
+                android:ellipsize="end"
+                android:fontFamily="@font/sf_pro_display_bold"
+                android:maxLines="1"
+                android:text="@string/rate"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                app:layout_constraintStart_toEndOf="@id/btnApply"
+                android:textSize="@dimen/_12sdp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/btn_feedback"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_feedback"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="end"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="@drawable/bg_btn_done"
+                android:ellipsize="end"
+                android:fontFamily="@font/sf_pro_display_bold"
+                android:maxLines="1"
+                android:text="@string/btnYes"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_12sdp"
+                app:layout_constraintStart_toEndOf="@id/btnRAte"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/root2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnApply2"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="@drawable/ic_btn_not"
+                android:ellipsize="end"
+                android:fontFamily="@font/sf_pro_display_bold"
+                android:maxLines="1"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="@string/btnCanse"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12sdp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/btn_feedback2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_feedback2"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="end"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:background="@drawable/bg_btn_done"
+                android:ellipsize="end"
+                android:fontFamily="@font/sf_pro_display_bold"
+                android:maxLines="1"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="@string/btnYes"
+                android:textAllCaps="false"
+                android:textColor="#363D4D"
+                android:textSize="@dimen/_12sdp"
+                app:layout_constraintStart_toEndOf="@id/btnApply2"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

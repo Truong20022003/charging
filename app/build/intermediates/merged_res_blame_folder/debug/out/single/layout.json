@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_setting.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_setting.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_second.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_home.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_battery_notification.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_battery_notification.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_country.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_no_internet.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_no_internet.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_feedback.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_feedback.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_alarm.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_alarm.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_custom.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_custom.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_rating_app_2.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_rating_app_2.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_permnission.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_permnission.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_success.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_success.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_info.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_info.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_spalsh.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_spalsh.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_fragment_home_item_category.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_fragment_home_item_category.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/ads.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/ads.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_content_anim.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_content_anim.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_policy.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_policy.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_gallery.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_ringone.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_ringone.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_language_setting.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_setting.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_processing.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_processing.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_setting.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_exit.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_exit.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_down.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_down.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_down.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_down.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_menu_country.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_menu_country.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_language2.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_language2.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_overlay_permisson.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_overlay_permisson.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_ringtone.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_ringtone.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_tutorial.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_tutorial.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_setting_and_alarm.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting_and_alarm.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/service_full_batter.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/service_full_batter.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_language.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/item_mobile.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/item_mobile.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/layout_notification.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/layout_notification.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_battery.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_battery.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_first.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_add_gif.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_add_gif.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/fragment_mobile.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_mobile.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_animation.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_animation.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_language_start.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_start.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/layout_walpaper_select_option.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/layout_walpaper_select_option.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/dialog_watch_ads.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_watch_ads.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_apply_animation.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_apply_animation.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-mergeDebugResources-63:/layout/activity_tutorial.xml",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_tutorial.xml"
+    }
+]
