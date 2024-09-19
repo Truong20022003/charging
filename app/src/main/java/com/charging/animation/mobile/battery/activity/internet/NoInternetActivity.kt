@@ -8,14 +8,14 @@ import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.splash.SplashActivity
 import com.charging.animation.mobile.battery.custom.view.loadImage
-import com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding
+import com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding
 import com.charging.animation.mobile.battery.util.CheckInternet
 import com.charging.animation.mobile.battery.util.Constants
 
-class NoInternetActivity :  BaseActivity<ActivityNoInternetBinding, NoInternetViewModel>() {
+class NoInternetActivity :  BaseActivity<ActivityNoInternetUpdateBinding, NoInternetViewModel>() {
     private var isIntent = ""
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityNoInternetBinding =
-        ActivityNoInternetBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityNoInternetUpdateBinding =
+        ActivityNoInternetUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): NoInternetViewModel = viewModels<NoInternetViewModel>().value
 

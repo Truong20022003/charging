@@ -15,15 +15,15 @@ import com.charging.animation.mobile.battery.activity.main.MainActivity
 import com.charging.animation.mobile.battery.api.Results
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.database.Database
-import com.charging.animation.mobile.battery.databinding.FragmentDownBinding
+import com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding
 import com.charging.animation.mobile.battery.fragment.gallery.GalleryViewModel
 import com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter
 import com.charging.animation.mobile.battery.listener.Listener
 
-class DownFragment : BaseFragment<FragmentDownBinding, GalleryViewModel>() {
+class DownFragment : BaseFragment<FragmentDownUpdateBinding, GalleryViewModel>() {
     var adapterGallery: GalleryAdapter? = null
     lateinit var listGallery: MutableList<Results>
-    override fun getViewBinding(): FragmentDownBinding = FragmentDownBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentDownUpdateBinding = FragmentDownUpdateBinding.inflate(layoutInflater)
     override fun setViewModel(): GalleryViewModel = viewModels<GalleryViewModel>().value
 
     override fun init() {

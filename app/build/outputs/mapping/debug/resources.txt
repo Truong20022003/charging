@@ -1,21 +1,3 @@
-Marking id:imgBack:2131296567 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgSave:2131296593 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rootAds:2131296778 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rv_language:2131296790 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:toolbar:2131296903 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvTitle:2131296951 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_language_setting:2131492896 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurViewBtn:2131296354 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurViewCreator:2131296356 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurViewMain:2131296357 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnDown:2131296374 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:fr_ads:2131296501 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:gitAnim:2131296510 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgBtnDown:2131296571 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgCreator:2131296572 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rootToolbar:2131296784 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvDown:2131296937 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_down:2131492894 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:white:2131034912 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:color_8E8E8E:2131034173 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:item_ringone:2131492954 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -30,6 +12,27 @@ Marking string:double_tap_to_hide:2131886226 reachable: referenced from D:\V020C
 Marking string:single_tap_to_hide:2131886468 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:item_menu_country:2131492952 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:rcvCountry:2131296761 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurViewCharging:2131296355 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurViewCreator:2131296356 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurViewMain:2131296357 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurViewWallpaper:2131296359 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnApply:2131296369 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btn_set_wallpaper:2131296385 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:circularProgressBar:2131296405 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:fr_ads:2131296501 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgBack:2131296567 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgBtnApply:2131296570 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgBtnDown:2131296571 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgCreator:2131296572 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgGif:2131296578 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rootToolbar:2131296784 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:toolbar:2131296903 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvConnect:2131296934 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tv_day:2131296958 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tv_progress:2131296959 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tv_time:2131296960 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvTitle:2131296951 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_apply_animation_update:2131492893 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:ic_switch_off:2131165560 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:ic_switch_on:2131165561 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:ll_both:2131296629 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -38,11 +41,16 @@ Marking id:ll_lock_screen:2131296632 reachable: referenced from D:\V020ChargingA
 Marking id:ll_option:2131296633 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:txtSelection:2131296962 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:layout_walpaper_select_option:2131492957 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:dot_1:2131296456 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:gif:2131296509 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imageView2:2131296550 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgRetry:2131296592 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:linearLayout11:2131296624 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_success_update:2131492904 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:btnHome:2131296376 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imgNodata:2131296587 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:rcvGallery:2131296762 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:rootNodata:2131296781 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_down:2131492937 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvNameCategory:2131296942 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:dialog_overlay_permisson:2131492927 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:cbutton:2131296392 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -50,21 +58,15 @@ Marking drawable:dowm_bg_wallpaper:2131165468 reachable: referenced from D:\V020
 Marking drawable:dowm_bg_applly:2131165465 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:dowm_bg_creator:2131165467 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:charging:2131886184 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnBack3:2131296371 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rcvRingtone:2131296764 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_ringtone:2131492902 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvTime:2131296950 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvName:2131296941 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:thank_you_for_rating:2131886480 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:dialog_processing:2131492928 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgSave:2131296593 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rootAds:2131296778 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rv_language:2131296790 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_language_setting_update:2131492896 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:main:2131034661 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_custom:2131492936 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_language_start:2131492897 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgNoIn:2131296586 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgRetry:2131296592 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_no_internet:2131492899 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:webView:2131296979 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_policy:2131492901 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking style:BaseDialog:2131951904 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:dialog_rating_app_2:2131492929 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvContentTutorial:2131296936 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -80,7 +82,6 @@ Marking string:for_supporting_our_service:2131886262 reachable: referenced from 
 Marking drawable:img_nodata:2131165567 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:language_bg_btn:2131165577 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:gallery_btn_select:2131165480 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnApply:2131296369 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:btn_feedback:2131296383 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:constraintLayout4:2131296420 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:constraintLayout5:2131296421 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -142,7 +143,26 @@ Marking id:tv5:2131296925 reachable: referenced from D:\V020ChargingAnimation\ap
 Marking id:tv6:2131296926 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tv7:2131296927 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvAlarm:2131296929 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_setting:2131492943 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:webView:2131296979 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_policy_update:2131492901 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:cl_Battery:2131296406 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:connect:2131296418 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imageView12:2131296549 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgCycle:2131296573 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgHigh:2131296579 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgLow:2131296584 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgPin:2131296589 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgService:2131296594 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgServiceFull:2131296595 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:iv_Ring_Battery:2131296610 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:textView2:2131296879 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvNameRing:2131296943 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvPin3:2131296945 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvPinInfo:2131296946 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnCustom:2131296373 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnDown:2131296374 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:linearLayoutCompat:2131296626 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:viewpager:2131296976 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:item_mobile:2131492953 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:new_language_en:2131165656 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:new_language_hi:2131165659 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -151,6 +171,20 @@ Marking drawable:new_language_fr:2131165658 reachable: referenced from D:\V020Ch
 Marking drawable:new_language_pt:2131165661 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:new_language_in:2131165660 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:new_language_de:2131165655 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_language_start_update:2131492897 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img1:2131296560 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img2:2131296561 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img3:2131296562 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img4:2131296563 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img5:2131296564 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img6:2131296565 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:scrollView2:2131296800 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:template:2131296871 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvCapacity:2131296932 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvHeart:2131296938 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvLion:2131296939 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvType:2131296954 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvVol:2131296955 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:battery_img_cycle:2131165414 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:battery_ic_pin_info:2131165413 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:battery_ic_cc:2131165412 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -160,26 +194,6 @@ Marking drawable:ic_temple:2131165562 reachable: referenced from D:\V020Charging
 Marking drawable:ic_capati:2131165511 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:ic_charging_info:2131165515 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:ic_lion:2131165534 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:connect:2131296418 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imageView12:2131296549 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img1:2131296560 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img2:2131296561 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img3:2131296562 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img4:2131296563 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img5:2131296564 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img6:2131296565 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgCycle:2131296573 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgPin:2131296589 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:scrollView2:2131296800 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:template:2131296871 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvCapacity:2131296932 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvHeart:2131296938 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvLion:2131296939 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvPin3:2131296945 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvPinInfo:2131296946 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvType:2131296954 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvVol:2131296955 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_battery:2131492935 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:color_DE1BF2:2131034175 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:color_262140:2131034170 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking color:color_92909F:2131034174 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -193,18 +207,6 @@ Marking drawable:switch_off:2131165690 reachable: referenced from D:\V020Chargin
 Marking string:downing:2131886228 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:success:2131165687 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:success_ic_done:2131165688 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurView:2131296353 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:dot_1:2131296456 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:dot_2:2131296457 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:dot_3:2131296458 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgNext:2131296585 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgPre:2131296590 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rootController:2131296779 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rootText:2131296783 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvContent:2131296935 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvTile:2131296949 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:viewpager:2131296976 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_tutorial:2131492905 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:main_ic_home:2131165597 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:main_ic_gallery:2131165595 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:main_ic_setting:2131165600 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -225,21 +227,34 @@ Marking layout:service_full_batter:2131493019 reachable: referenced from D:\V020
 Marking string:temperature_greater_than_60_degrees_celsius_tap_to_stop_ringtone:2131886478 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:message:2131296662 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:splash_img_logo:2131165684 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnBack3:2131296371 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rcvRingtone:2131296764 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_ringtone_update:2131492902 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgNoIn:2131296586 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_no_internet_update:2131492899 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:img_ring_battery:2131165568 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:none:2131886424 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurViewCharging:2131296355 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:circularProgressBar:2131296405 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgBackground:2131296568 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgLogo:2131296583 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:pb:2131296745 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvAds:2131296928 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvLogo:2131296940 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvPer:2131296944 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_spalsh_update:2131492903 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:fragment_view:2131296504 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:include:2131296600 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_info_update:2131492895 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:gitAnim:2131296510 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:iv_batterry:2131296611 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvConnect:2131296934 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tv_day:2131296958 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tv_progress:2131296959 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tv_time:2131296960 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_animation:2131492892 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:blurViewWallpaper:2131296359 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btn_set_wallpaper:2131296385 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgBtnApply:2131296570 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgGif:2131296578 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_apply_animation:2131492893 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_animationupdate:2131492892 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:img_guide:2131296598 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking drawable:language_bg_item:2131165578 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking drawable:language_bg_item_off:2131165579 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:item_language:2131492950 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:item_country:2131492948 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:layout_notification:2131492956 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking string:select:2131886456 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking string:ringtone:2131886448 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:appBarLayout:2131296337 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:collapsingToolbar:2131296415 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imageView:2131296546 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -249,59 +264,32 @@ Marking id:rcvAnimation:2131296759 reachable: referenced from D:\V020ChargingAni
 Marking id:rcvCategory:2131296760 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvTopHeadContent:2131296952 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tvTopHeadTitle:2131296953 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_home:2131492940 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:gif:2131296509 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imageView2:2131296550 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:linearLayout11:2131296624 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_success:2131492904 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_setting_and_alarm:2131492944 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:fragment_view:2131296504 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:img_guide:2131296598 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:rcvMobile:2131296763 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_mobile:2131492941 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking drawable:language_bg_item:2131165578 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking drawable:language_bg_item_off:2131165579 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:item_language:2131492950 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:item_country:2131492948 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:layout_notification:2131492956 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking string:select:2131886456 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking string:ringtone:2131886448 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imgView:2131296597 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:adsView:2131296327 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imgDown:2131296575 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurView:2131296353 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:dot_2:2131296457 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:dot_3:2131296458 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgNext:2131296585 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:imgPre:2131296590 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rootController:2131296779 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rootText:2131296783 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvContent:2131296935 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvTile:2131296949 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_tutorial_update:2131492905 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:rcvMobile:2131296763 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking string:full_charging_tap_to_stop_ringtone:2131886265 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:blurViewPermission:2131296358 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imgBg:2131296569 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:rootPermission:2131296782 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:swStore:2131296856 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:tv_content1:2131296957 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_permnission:2131492900 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnCustom:2131296373 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:linearLayoutCompat:2131296626 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_gallery:2131492939 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking string:full_charging_tap_to_stop_ringtone:2131886265 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_permnission_update:2131492900 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:battery_remaining_less_than_20_tap_to_stop_ringtone:2131886152 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:no_internet_ic_wifi:2131165662 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:home_img_loading:2131165487 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:splash_img_bg:2131165683 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking layout:item_content_anim:2131492947 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgBackground:2131296568 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgLogo:2131296583 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:pb:2131296745 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvAds:2131296928 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvLogo:2131296940 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvPer:2131296944 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_spalsh:2131492903 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:include:2131296600 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_info:2131492895 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:cl_Battery:2131296406 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgHigh:2131296579 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgLow:2131296584 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgService:2131296594 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:imgServiceFull:2131296595 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:iv_Ring_Battery:2131296610 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:textView2:2131296879 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:tvNameRing:2131296943 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:fragment_alarm:2131492934 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:imgIcon:2131296580 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:rootLanguage:2131296780 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:dot_not_select:2131165463 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -316,11 +304,6 @@ Marking string:the_information:2131886481 reachable: referenced from D:\V020Char
 Marking string:intro_3:2131886301 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking drawable:img_tutorial_4:2131165572 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking style:full_screen_dialog:2131952750 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:bottomBar:2131296361 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnGallery:2131296375 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnInfo:2131296377 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking id:btnSetting:2131296381 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
-Marking layout:activity_main:2131492898 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:btnApply2:2131296370 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:btn_feedback2:2131296384 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking id:btnRAte:2131296379 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
@@ -347,6 +330,14 @@ Marking string:display:2131886222 reachable: referenced from D:\V020ChargingAnim
 Marking string:Hardware:2131886082 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:host:2131886291 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 Marking string:version:2131886492 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:blurViewBtn:2131296354 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:tvDown:2131296937 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_down_update:2131492894 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:bottomBar:2131296361 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnGallery:2131296375 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnInfo:2131296377 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking id:btnSetting:2131296381 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
+Marking layout:activity_main_update:2131492898 reachable: referenced from D:\V020ChargingAnimation\app\build\intermediates\dex\debug\minifyDebugWithR8\classes.dex
 android.content.res.Resources#getIdentifier present: true
 Web content present: true
 Referenced Strings:
@@ -968,9 +959,9 @@ stream
 waiters
 CancellableContinuation
 android.summaryText
-btnDown
 map
 data:image
+btnDown
 allowFreeFormInput
 listeners
 SSL_RSA_WITH_NULL_SHA
@@ -1342,8 +1333,8 @@ $this$canReuseConnectionFor
 android:support:fragments
 UNRESTRICTED
 4.0
-home_info_click
 tvTime
+home_info_click
 visited
 START
 DirectExecutor
@@ -3260,8 +3251,8 @@ Compression
 ATOMIC
 kotlin.collections.Collection
 getAlpnSelectedProtocol
-imgBtnDown
 body
+imgBtnDown
 imgServiceFull
 ACTION_RESCHEDULE
 schedule_requested_at
@@ -5050,17 +5041,17 @@ Marking id:fragment_container:2131296502 used because it matches string pool con
 Marking id:fragment_container_view_tag:2131296503 used because it matches string pool constant fr
 Marking id:fragment_view:2131296504 used because it matches string pool constant fr
 Marking id:frost:2131296505 used because it matches string pool constant fr
-Marking layout:fragment_alarm:2131492934 used because it matches string pool constant fr
-Marking layout:fragment_battery:2131492935 used because it matches string pool constant fr
-Marking layout:fragment_custom:2131492936 used because it matches string pool constant fr
-Marking layout:fragment_down:2131492937 used because it matches string pool constant fr
-Marking layout:fragment_first:2131492938 used because it matches string pool constant fr
-Marking layout:fragment_gallery:2131492939 used because it matches string pool constant fr
-Marking layout:fragment_home:2131492940 used because it matches string pool constant fr
-Marking layout:fragment_mobile:2131492941 used because it matches string pool constant fr
-Marking layout:fragment_second:2131492942 used because it matches string pool constant fr
-Marking layout:fragment_setting:2131492943 used because it matches string pool constant fr
-Marking layout:fragment_setting_and_alarm:2131492944 used because it matches string pool constant fr
+Marking layout:fragment_alarm_update:2131492934 used because it matches string pool constant fr
+Marking layout:fragment_battery_update:2131492935 used because it matches string pool constant fr
+Marking layout:fragment_custom_update:2131492936 used because it matches string pool constant fr
+Marking layout:fragment_down_update:2131492937 used because it matches string pool constant fr
+Marking layout:fragment_first_update:2131492938 used because it matches string pool constant fr
+Marking layout:fragment_gallery_update:2131492939 used because it matches string pool constant fr
+Marking layout:fragment_home_update:2131492940 used because it matches string pool constant fr
+Marking layout:fragment_mobile_update:2131492941 used because it matches string pool constant fr
+Marking layout:fragment_second_update:2131492942 used because it matches string pool constant fr
+Marking layout:fragment_setting_and_alarm_update:2131492943 used because it matches string pool constant fr
+Marking layout:fragment_setting_update:2131492944 used because it matches string pool constant fr
 Marking string:from_animation:2131886263 used because it matches string pool constant fr
 Marking string:from_device_library:2131886264 used because it matches string pool constant fr
 Marking attr:content:2130903357 used because it matches string pool constant content
@@ -5240,20 +5231,20 @@ Marking id:rootAds:2131296778 used because it matches string pool constant rootA
 Marking id:rootAds:2131296778 used because it matches string pool constant rootAds
 Marking attr:activityChooserViewStyle:2130903082 used because it matches string pool constant activity
 Marking id:activity_chooser_view_content:2131296325 used because it matches string pool constant activity
-Marking layout:activity_animation:2131492892 used because it matches string pool constant activity
-Marking layout:activity_apply_animation:2131492893 used because it matches string pool constant activity
-Marking layout:activity_down:2131492894 used because it matches string pool constant activity
-Marking layout:activity_info:2131492895 used because it matches string pool constant activity
-Marking layout:activity_language_setting:2131492896 used because it matches string pool constant activity
-Marking layout:activity_language_start:2131492897 used because it matches string pool constant activity
-Marking layout:activity_main:2131492898 used because it matches string pool constant activity
-Marking layout:activity_no_internet:2131492899 used because it matches string pool constant activity
-Marking layout:activity_permnission:2131492900 used because it matches string pool constant activity
-Marking layout:activity_policy:2131492901 used because it matches string pool constant activity
-Marking layout:activity_ringtone:2131492902 used because it matches string pool constant activity
-Marking layout:activity_spalsh:2131492903 used because it matches string pool constant activity
-Marking layout:activity_success:2131492904 used because it matches string pool constant activity
-Marking layout:activity_tutorial:2131492905 used because it matches string pool constant activity
+Marking layout:activity_animationupdate:2131492892 used because it matches string pool constant activity
+Marking layout:activity_apply_animation_update:2131492893 used because it matches string pool constant activity
+Marking layout:activity_down_update:2131492894 used because it matches string pool constant activity
+Marking layout:activity_info_update:2131492895 used because it matches string pool constant activity
+Marking layout:activity_language_setting_update:2131492896 used because it matches string pool constant activity
+Marking layout:activity_language_start_update:2131492897 used because it matches string pool constant activity
+Marking layout:activity_main_update:2131492898 used because it matches string pool constant activity
+Marking layout:activity_no_internet_update:2131492899 used because it matches string pool constant activity
+Marking layout:activity_permnission_update:2131492900 used because it matches string pool constant activity
+Marking layout:activity_policy_update:2131492901 used because it matches string pool constant activity
+Marking layout:activity_ringtone_update:2131492902 used because it matches string pool constant activity
+Marking layout:activity_spalsh_update:2131492903 used because it matches string pool constant activity
+Marking layout:activity_success_update:2131492904 used because it matches string pool constant activity
+Marking layout:activity_tutorial_update:2131492905 used because it matches string pool constant activity
 Marking attr:telltales_tailColor:2130904206 used because it matches string pool constant te
 Marking attr:telltales_tailScale:2130904207 used because it matches string pool constant te
 Marking attr:telltales_velocityMode:2130904208 used because it matches string pool constant te
@@ -6139,17 +6130,17 @@ Marking animator:fragment_open_exit:2130837512 used because it matches string po
 Marking id:fragment_container:2131296502 used because it matches string pool constant fragment_
 Marking id:fragment_container_view_tag:2131296503 used because it matches string pool constant fragment_
 Marking id:fragment_view:2131296504 used because it matches string pool constant fragment_
-Marking layout:fragment_alarm:2131492934 used because it matches string pool constant fragment_
-Marking layout:fragment_battery:2131492935 used because it matches string pool constant fragment_
-Marking layout:fragment_custom:2131492936 used because it matches string pool constant fragment_
-Marking layout:fragment_down:2131492937 used because it matches string pool constant fragment_
-Marking layout:fragment_first:2131492938 used because it matches string pool constant fragment_
-Marking layout:fragment_gallery:2131492939 used because it matches string pool constant fragment_
-Marking layout:fragment_home:2131492940 used because it matches string pool constant fragment_
-Marking layout:fragment_mobile:2131492941 used because it matches string pool constant fragment_
-Marking layout:fragment_second:2131492942 used because it matches string pool constant fragment_
-Marking layout:fragment_setting:2131492943 used because it matches string pool constant fragment_
-Marking layout:fragment_setting_and_alarm:2131492944 used because it matches string pool constant fragment_
+Marking layout:fragment_alarm_update:2131492934 used because it matches string pool constant fragment_
+Marking layout:fragment_battery_update:2131492935 used because it matches string pool constant fragment_
+Marking layout:fragment_custom_update:2131492936 used because it matches string pool constant fragment_
+Marking layout:fragment_down_update:2131492937 used because it matches string pool constant fragment_
+Marking layout:fragment_first_update:2131492938 used because it matches string pool constant fragment_
+Marking layout:fragment_gallery_update:2131492939 used because it matches string pool constant fragment_
+Marking layout:fragment_home_update:2131492940 used because it matches string pool constant fragment_
+Marking layout:fragment_mobile_update:2131492941 used because it matches string pool constant fragment_
+Marking layout:fragment_second_update:2131492942 used because it matches string pool constant fragment_
+Marking layout:fragment_setting_and_alarm_update:2131492943 used because it matches string pool constant fragment_
+Marking layout:fragment_setting_update:2131492944 used because it matches string pool constant fragment_
 Marking id:imgPre:2131296590 used because it matches string pool constant imgPre
 Marking id:imgPre:2131296590 used because it matches string pool constant imgPre
 Marking attr:layout_constraintTop_toTopOf:2130903752 used because it matches string pool constant layout_constraintTop_toTopOf
@@ -6313,17 +6304,17 @@ Marking animator:fragment_open_exit:2130837512 used because it matches string po
 Marking id:fragment_container:2131296502 used because it matches string pool constant fragment
 Marking id:fragment_container_view_tag:2131296503 used because it matches string pool constant fragment
 Marking id:fragment_view:2131296504 used because it matches string pool constant fragment
-Marking layout:fragment_alarm:2131492934 used because it matches string pool constant fragment
-Marking layout:fragment_battery:2131492935 used because it matches string pool constant fragment
-Marking layout:fragment_custom:2131492936 used because it matches string pool constant fragment
-Marking layout:fragment_down:2131492937 used because it matches string pool constant fragment
-Marking layout:fragment_first:2131492938 used because it matches string pool constant fragment
-Marking layout:fragment_gallery:2131492939 used because it matches string pool constant fragment
-Marking layout:fragment_home:2131492940 used because it matches string pool constant fragment
-Marking layout:fragment_mobile:2131492941 used because it matches string pool constant fragment
-Marking layout:fragment_second:2131492942 used because it matches string pool constant fragment
-Marking layout:fragment_setting:2131492943 used because it matches string pool constant fragment
-Marking layout:fragment_setting_and_alarm:2131492944 used because it matches string pool constant fragment
+Marking layout:fragment_alarm_update:2131492934 used because it matches string pool constant fragment
+Marking layout:fragment_battery_update:2131492935 used because it matches string pool constant fragment
+Marking layout:fragment_custom_update:2131492936 used because it matches string pool constant fragment
+Marking layout:fragment_down_update:2131492937 used because it matches string pool constant fragment
+Marking layout:fragment_first_update:2131492938 used because it matches string pool constant fragment
+Marking layout:fragment_gallery_update:2131492939 used because it matches string pool constant fragment
+Marking layout:fragment_home_update:2131492940 used because it matches string pool constant fragment
+Marking layout:fragment_mobile_update:2131492941 used because it matches string pool constant fragment
+Marking layout:fragment_second_update:2131492942 used because it matches string pool constant fragment
+Marking layout:fragment_setting_and_alarm_update:2131492943 used because it matches string pool constant fragment
+Marking layout:fragment_setting_update:2131492944 used because it matches string pool constant fragment
 @anim/abc_fade_in : reachable=false
 @anim/abc_fade_out : reachable=false
 @anim/abc_grow_fade_in_from_bottom : reachable=false
@@ -13241,7 +13232,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @style/TextAppearance_AppCompat_Tooltip
     @dimen/tooltip_margin
     @dimen/tooltip_vertical_padding
-@layout/activity_animation : reachable=true
+@layout/activity_animationupdate : reachable=true
     @color/color_090327
     @color/tran
     @font/sf_pro_display_regular
@@ -13250,7 +13241,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/charging
     @drawable/new_ic_battery
     @font/sf_pro_display_bold
-@layout/activity_apply_animation : reachable=true
+@layout/activity_apply_animation_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13277,7 +13268,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @color/color_F16CFF
     @string/charging
     @dimen/_7sdp
-@layout/activity_down : reachable=true
+@layout/activity_down_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13296,7 +13287,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @dimen/_42sdp
     @string/download_animation
     @dimen/_7sdp
-@layout/activity_info : reachable=true
+@layout/activity_info_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13316,7 +13307,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/info_battery
     @string/info_device
     @layout/ads
-@layout/activity_language_setting : reachable=true
+@layout/activity_language_setting_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13328,7 +13319,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/language
     @drawable/new_ic_tick
     @layout/ads
-@layout/activity_language_start : reachable=true
+@layout/activity_language_start_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13340,7 +13331,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/language
     @drawable/new_ic_tick
     @layout/ads
-@layout/activity_main : reachable=true
+@layout/activity_main_update : reachable=true
     @color/color_090327
     @dimen/_20sdp
     @drawable/new_ic_back
@@ -13365,7 +13356,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @drawable/main_ic_gallery
     @drawable/main_ic_setting
     @layout/ads
-@layout/activity_no_internet : reachable=true
+@layout/activity_no_internet_update : reachable=true
     @color/color_090327
     @dimen/_8sdp
     @color/color_150F32
@@ -13381,7 +13372,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @font/sf_pro_display_bold
     @dimen/_12ssp
     @string/retry
-@layout/activity_permnission : reachable=true
+@layout/activity_permnission_update : reachable=true
     @color/color_090327
     @dimen/_8sdp
     @dimen/_40sdp
@@ -13404,7 +13395,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/storage
     @drawable/switch_off
     @dimen/_7sdp
-@layout/activity_policy : reachable=true
+@layout/activity_policy_update : reachable=true
     @color/color_090327
     @dimen/_5sdp
     @drawable/new_ic_back
@@ -13414,7 +13405,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @color/white
     @font/sf_pro_display_semibold
     @string/information
-@layout/activity_ringtone : reachable=true
+@layout/activity_ringtone_update : reachable=true
     @dimen/_20sdp
     @drawable/new_ic_back
     @dimen/_10sdp
@@ -13427,7 +13418,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @dimen/_5sdp
     @color/main
     @dimen/_7sdp
-@layout/activity_spalsh : reachable=true
+@layout/activity_spalsh_update : reachable=true
     @color/color_090327
     @dimen/_78sdp
     @dimen/_156sdp
@@ -13445,7 +13436,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @color/color_F16CFF
     @dimen/_35sdp
     @color/color_2B2645
-@layout/activity_success : reachable=true
+@layout/activity_success_update : reachable=true
     @dimen/_8sdp
     @dimen/_40sdp
     @drawable/success_line
@@ -13466,7 +13457,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/explore_more_animation
     @dimen/_7sdp
     @dimen/_150sdp
-@layout/activity_tutorial : reachable=true
+@layout/activity_tutorial_update : reachable=true
     @color/color_090327
     @dimen/_8sdp
     @dimen/_40sdp
@@ -13682,7 +13673,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
 @layout/dot_layout : reachable=false
     @drawable/dot_background
 @layout/dp_example : reachable=false
-@layout/fragment_alarm : reachable=true
+@layout/fragment_alarm_update : reachable=true
     @color/color_090327
     @dimen/_194sdp
     @dimen/_23sdp
@@ -13710,7 +13701,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/select_ringtones
     @string/none
     @drawable/ic_right
-@layout/fragment_battery : reachable=true
+@layout/fragment_battery_update : reachable=true
     @color/color_090327
     @dimen/_8sdp
     @dimen/_20sdp
@@ -13743,7 +13734,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @dimen/_44sdp
     @dimen/_84sdp
     @dimen/_minus12sdp
-@layout/fragment_custom : reachable=true
+@layout/fragment_custom_update : reachable=true
     @dimen/_10sdp
     @dimen/_8sdp
     @color/color_150F32
@@ -13759,7 +13750,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @font/sf_pro_display_bold
     @dimen/_12ssp
     @string/custom_nanimation
-@layout/fragment_down : reachable=true
+@layout/fragment_down_update : reachable=true
     @dimen/_4sdp
     @dimen/_8sdp
     @color/color_150F32
@@ -13776,7 +13767,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @font/sf_pro_display_bold
     @dimen/_12ssp
     @string/find_animation
-@layout/fragment_first : reachable=true
+@layout/fragment_first_update : reachable=true
     @dimen/_12sdp
     @dimen/_140sdp
     @dimen/_15sdp
@@ -13795,7 +13786,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @drawable/first_background_btn
     @font/sf_pro_display_medium
     @string/custom_now
-@layout/fragment_gallery : reachable=true
+@layout/fragment_gallery_update : reachable=true
     @drawable/info_bg_top
     @dimen/_6sdp
     @dimen/_5sdp
@@ -13809,7 +13800,7 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @dimen/_10sdp
     @dimen/_15sdp
     @dimen/_100sdp
-@layout/fragment_home : reachable=true
+@layout/fragment_home_update : reachable=true
     @style/ThemeOverlay_AppCompat_Dark_ActionBar
     @dimen/_8sdp
     @drawable/home_bg_top_left
@@ -13833,14 +13824,14 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @dimen/_4sdp
     @dimen/_100sdp
     @dimen/_30sdp
-@layout/fragment_mobile : reachable=true
+@layout/fragment_mobile_update : reachable=true
     @color/color_090327
     @dimen/_194sdp
     @dimen/_23sdp
     @drawable/battery_bg_item
     @dimen/_8sdp
     @dimen/_20sdp
-@layout/fragment_second : reachable=true
+@layout/fragment_second_update : reachable=true
     @dimen/_12sdp
     @dimen/_140sdp
     @dimen/_15sdp
@@ -13863,7 +13854,8 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @string/capacity
     @string/technology
     @string/good
-@layout/fragment_setting : reachable=true
+@layout/fragment_setting_and_alarm_update : reachable=true
+@layout/fragment_setting_update : reachable=true
     @color/color_090327
     @drawable/setting_bg_item
     @dimen/_5sdp
@@ -13890,7 +13882,6 @@ Marking layout:fragment_setting_and_alarm:2131492944 used because it matches str
     @drawable/ic_feeback
     @string/feedback
     @dimen/_22sdp
-@layout/fragment_setting_and_alarm : reachable=true
 @layout/ime_base_split_test_activity : reachable=false
 @layout/ime_secondary_split_test_activity : reachable=false
 @layout/item_content_anim : reachable=true
@@ -25339,20 +25330,20 @@ The root reachable resources are:
  layout:abc_search_dropdown_item_icons_2line:2131492888
  layout:abc_search_view:2131492889
  layout:abc_tooltip:2131492891
- layout:activity_animation:2131492892
- layout:activity_apply_animation:2131492893
- layout:activity_down:2131492894
- layout:activity_info:2131492895
- layout:activity_language_setting:2131492896
- layout:activity_language_start:2131492897
- layout:activity_main:2131492898
- layout:activity_no_internet:2131492899
- layout:activity_permnission:2131492900
- layout:activity_policy:2131492901
- layout:activity_ringtone:2131492902
- layout:activity_spalsh:2131492903
- layout:activity_success:2131492904
- layout:activity_tutorial:2131492905
+ layout:activity_animationupdate:2131492892
+ layout:activity_apply_animation_update:2131492893
+ layout:activity_down_update:2131492894
+ layout:activity_info_update:2131492895
+ layout:activity_language_setting_update:2131492896
+ layout:activity_language_start_update:2131492897
+ layout:activity_main_update:2131492898
+ layout:activity_no_internet_update:2131492899
+ layout:activity_permnission_update:2131492900
+ layout:activity_policy_update:2131492901
+ layout:activity_ringtone_update:2131492902
+ layout:activity_spalsh_update:2131492903
+ layout:activity_success_update:2131492904
+ layout:activity_tutorial_update:2131492905
  layout:custom_dialog:2131492907
  layout:design_bottom_navigation_item:2131492908
  layout:design_bottom_sheet_dialog:2131492909
@@ -25376,17 +25367,17 @@ The root reachable resources are:
  layout:dialog_processing:2131492928
  layout:dialog_rating_app_2:2131492929
  layout:dialog_setting:2131492930
- layout:fragment_alarm:2131492934
- layout:fragment_battery:2131492935
- layout:fragment_custom:2131492936
- layout:fragment_down:2131492937
- layout:fragment_first:2131492938
- layout:fragment_gallery:2131492939
- layout:fragment_home:2131492940
- layout:fragment_mobile:2131492941
- layout:fragment_second:2131492942
- layout:fragment_setting:2131492943
- layout:fragment_setting_and_alarm:2131492944
+ layout:fragment_alarm_update:2131492934
+ layout:fragment_battery_update:2131492935
+ layout:fragment_custom_update:2131492936
+ layout:fragment_down_update:2131492937
+ layout:fragment_first_update:2131492938
+ layout:fragment_gallery_update:2131492939
+ layout:fragment_home_update:2131492940
+ layout:fragment_mobile_update:2131492941
+ layout:fragment_second_update:2131492942
+ layout:fragment_setting_and_alarm_update:2131492943
+ layout:fragment_setting_update:2131492944
  layout:item_content_anim:2131492947
  layout:item_country:2131492948
  layout:item_fragment_home_item_category:2131492949

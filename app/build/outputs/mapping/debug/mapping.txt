@@ -3,8 +3,8 @@
 # min_api: 24
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.1"}
-# pg_map_id: 734501b
-# pg_map_hash: SHA-256 734501b440a4f95c7f1d98f4977b0d5a4f800104049d6c4396bb65a05453b0c7
+# pg_map_id: 0eb892a
+# pg_map_hash: SHA-256 0eb892ae90c5bcfa1e7f7a77f2d53102ffdf450488a9f6f170ea8077b2a26090
 android.support.v4.app.INotificationSideChannel -> android.support.v4.app.INotificationSideChannel:
     176:176:void <clinit>() -> <clinit>
 android.support.v4.app.INotificationSideChannel$Default -> android.support.v4.app.INotificationSideChannel$Default:
@@ -21569,14 +21569,14 @@ com.charging.animation.mobile.battery.activity.animation.AnimationActivity -> co
     123:123:void setReceiver(android.content.BroadcastReceiver) -> <init>
     123:123:void <init>():123 -> <init>
     36:36:void <init>() -> <init>
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$getBinding
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$getDoubleBackToExitPressedOnce$p
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$getBinding
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$getDoubleBackToExitPressedOnce$p
     35:35:boolean access$getDoubleBackToExitPressedOnce$p(com.charging.animation.mobile.battery.activity.animation.AnimationActivity):35 -> access$getDoubleBackToExitPressedOnce$p
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$onBackPressed$s1134055712
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$onBackPressed$s1134055712
     35:35:void access$onBackPressed$s1134055712(com.charging.animation.mobile.battery.activity.animation.AnimationActivity):35 -> access$onBackPressed$s1134055712
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$setDoubleBackToExitPressedOnce$p
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$setDoubleBackToExitPressedOnce$p
     35:35:void access$setDoubleBackToExitPressedOnce$p(com.charging.animation.mobile.battery.activity.animation.AnimationActivity,boolean):35 -> access$setDoubleBackToExitPressedOnce$p
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$setUpView
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> access$setUpView
     35:35:void access$setUpView(com.charging.animation.mobile.battery.activity.animation.AnimationActivity):35 -> access$setUpView
     249:259:void blur() -> blur
     159:159:void close(int) -> close
@@ -21595,11 +21595,11 @@ com.charging.animation.mobile.battery.activity.animation.AnimationActivity -> co
     167:193:void onResume() -> onResume
     107:120:void receiver() -> receiver
     90:104:void screen() -> screen
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> setBinding
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> setBinding
     35:35:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):35 -> setBinding
-    40:40:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding setBinding(android.view.LayoutInflater) -> setBinding
+    40:40:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     221:224:void setUpView() -> setUpView
-    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> setViewModel
+    35:35:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.animation.AnimationActivity) -> setViewModel
     35:35:androidx.lifecycle.ViewModel setViewModel():35 -> setViewModel
     42:42:com.charging.animation.mobile.battery.activity.animation.AnimationViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -21684,7 +21684,7 @@ com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity -> c
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> access$dialogForPermission
     51:51:void access$dialogForPermission(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity):51 -> access$dialogForPermission
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> access$getBinding
-    51:51:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding access$getBinding(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity):51 -> access$getBinding
+    51:51:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity):51 -> access$getBinding
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> access$getBitmap
     51:51:void access$getBitmap(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,java.lang.String,com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity$OnClickedListener):51 -> access$getBitmap
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> access$isClicked$p
@@ -21714,7 +21714,7 @@ com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity -> c
     150:161:void receiver() -> receiver
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> setBinding
     51:51:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):51 -> setBinding
-    60:60:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding setBinding(android.view.LayoutInflater) -> setBinding
+    60:60:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     133:135:void setUpView() -> setUpView
     51:51:void access$showDialogSetWallpaper(com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity,android.graphics.Bitmap) -> setViewModel
     51:51:androidx.lifecycle.ViewModel setViewModel():51 -> setViewModel
@@ -21914,7 +21914,7 @@ com.charging.animation.mobile.battery.activity.down.DownActivity -> com.charging
     132:144:void receiver() -> receiver
     40:40:void access$setDOWN$cp(boolean) -> setBinding
     40:40:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):40 -> setBinding
-    49:49:com.charging.animation.mobile.battery.databinding.ActivityDownBinding setBinding(android.view.LayoutInflater) -> setBinding
+    49:49:com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     42:42:void setName(java.lang.String) -> setName
     43:43:void setPath(java.lang.String) -> setPath
     40:40:void access$setDOWN$cp(boolean) -> setViewModel
@@ -21979,13 +21979,13 @@ com.charging.animation.mobile.battery.activity.down.dialog.ProcessingDialog -> c
 com.charging.animation.mobile.battery.activity.info.InfoActivity -> com.charging.animation.mobile.battery.activity.info.InfoActivity:
 # {"id":"sourceFile","fileName":"InfoActivity.kt"}
     14:14:void <init>() -> <init>
-    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> access$getBinding
+    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> access$getBinding
     20:26:void init() -> init
     29:59:void listener() -> listener
-    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> setBinding
+    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> setBinding
     13:13:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):13 -> setBinding
-    15:15:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding setBinding(android.view.LayoutInflater) -> setBinding
-    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> setViewModel
+    15:15:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    13:13:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.InfoActivity) -> setViewModel
     13:13:androidx.lifecycle.ViewModel setViewModel():13 -> setViewModel
     17:17:com.charging.animation.mobile.battery.activity.info.InfoViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -22044,24 +22044,24 @@ com.charging.animation.mobile.battery.activity.info.adapter.TopAdapter -> com.ch
     11:20:androidx.fragment.app.Fragment getItem(int) -> getItem
 com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment -> com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment:
 # {"id":"sourceFile","fileName":"BatteryFragment.kt"}
-    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> <init>
+    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> <init>
     29:29:void <init>():29 -> <init>
     111:111:void setReceiver(android.content.BroadcastReceiver) -> <init>
     111:111:void <init>():111 -> <init>
-    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> <init>
+    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> <init>
     29:29:void <init>():29 -> <init>
-    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> access$getBinding
+    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> access$getBinding
     30:30:void setBattery(com.charging.animation.mobile.battery.model.Battery) -> getBattery
     30:30:com.charging.animation.mobile.battery.model.Battery getBattery():30 -> getBattery
-    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> getViewBinding
+    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> getViewBinding
     29:29:androidx.viewbinding.ViewBinding getViewBinding():29 -> getViewBinding
-    32:32:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding getViewBinding() -> getViewBinding
+    32:32:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding getViewBinding() -> getViewBinding
     37:75:void init() -> init
     93:93:void listener() -> listener
     179:181:void onDestroy() -> onDestroy
     78:89:void receiver() -> receiver
     31:31:void setCharging(boolean) -> setCharging
-    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> setViewModel
+    29:29:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryFragment) -> setViewModel
     29:29:androidx.lifecycle.ViewModel setViewModel():29 -> setViewModel
     34:34:com.charging.animation.mobile.battery.activity.info.fragment.battery.BatteryViewModel setViewModel() -> setViewModel
     106:109:kotlin.Lazy androidx.fragment.app.FragmentViewModelLazyKt.viewModels$default(androidx.fragment.app.Fragment,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -22156,7 +22156,7 @@ com.charging.animation.mobile.battery.activity.info.fragment.mobile.MobileFragme
     15:15:void <init>():15 -> <init>
     15:15:androidx.lifecycle.ViewModel setViewModel() -> getViewBinding
     15:15:androidx.viewbinding.ViewBinding getViewBinding():15 -> getViewBinding
-    18:18:com.charging.animation.mobile.battery.databinding.FragmentMobileBinding getViewBinding() -> getViewBinding
+    18:18:com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding getViewBinding() -> getViewBinding
     24:46:void init() -> init
     50:50:void listener() -> listener
     15:15:androidx.lifecycle.ViewModel setViewModel() -> setViewModel
@@ -22235,7 +22235,7 @@ com.charging.animation.mobile.battery.activity.internet.NoInternetActivity -> co
     48:60:void onResume() -> onResume
     15:15:androidx.lifecycle.ViewModel setViewModel() -> setBinding
     15:15:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):15 -> setBinding
-    18:18:com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding setBinding(android.view.LayoutInflater) -> setBinding
+    18:18:com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     15:15:androidx.lifecycle.ViewModel setViewModel() -> setViewModel
     20:20:com.charging.animation.mobile.battery.activity.internet.NoInternetViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -22276,67 +22276,67 @@ com.charging.animation.mobile.battery.activity.internet.NoInternetViewModel -> c
     5:5:void <init>() -> <init>
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
+    14:14:void <init>():14 -> <init>
+    16:16:void setLangDevice(java.lang.String) -> <init>
     16:16:void <init>():16 -> <init>
-    18:18:void setLangDevice(java.lang.String) -> <init>
-    18:18:void <init>():18 -> <init>
-    19:19:void setCodeLang(java.lang.String) -> <init>
-    19:19:void <init>():19 -> <init>
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    16:16:void <init>():16 -> <init>
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> access$getLanguageAdapter$p
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> access$getViewModel
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageViewModel access$getViewModel(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity):16 -> access$getViewModel
-    19:19:void setCodeLang(java.lang.String) -> getCodeLang
-    19:19:java.lang.String getCodeLang():19 -> getCodeLang
-    27:57:void init() -> init
-    60:69:void listener() -> listener
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> setBinding
-    16:16:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):16 -> setBinding
-    21:21:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding setBinding(android.view.LayoutInflater) -> setBinding
-    19:19:void setCodeLang(java.lang.String) -> setCodeLang
-    18:18:void setLangDevice(java.lang.String) -> setLangDevice
-    16:16:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> setViewModel
-    16:16:androidx.lifecycle.ViewModel setViewModel():16 -> setViewModel
-    23:23:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
+    17:17:void setCodeLang(java.lang.String) -> <init>
+    17:17:void <init>():17 -> <init>
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
+    14:14:void <init>():14 -> <init>
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> access$getLanguageAdapter$p
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> access$getViewModel
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageViewModel access$getViewModel(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity):14 -> access$getViewModel
+    17:17:void setCodeLang(java.lang.String) -> getCodeLang
+    17:17:java.lang.String getCodeLang():17 -> getCodeLang
+    25:55:void init() -> init
+    58:67:void listener() -> listener
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> setBinding
+    14:14:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):14 -> setBinding
+    19:19:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    17:17:void setCodeLang(java.lang.String) -> setCodeLang
+    16:16:void setLangDevice(java.lang.String) -> setLangDevice
+    14:14:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> setViewModel
+    14:14:androidx.lifecycle.ViewModel setViewModel():14 -> setViewModel
+    21:21:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
-    75:87:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel():23 -> setViewModel
-    23:23:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
-    73:73:void viewModel() -> viewModel
+    75:87:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel():21 -> setViewModel
+    21:21:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
+    71:71:void viewModel() -> viewModel
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$1 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$1:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
-    29:29:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    32:33:void onClickLanguage(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> onClickLanguage
+    27:27:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
+    30:31:void onClickLanguage(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> onClickLanguage
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$2 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$2:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    38:38:java.lang.Object invoke(java.lang.Object) -> invoke
-    39:40:void invoke(java.util.List) -> invoke
+    36:36:java.lang.Object invoke(java.lang.Object) -> invoke
+    37:38:void invoke(java.util.List) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$3 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$3:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    42:42:java.lang.Object invoke(java.lang.Object) -> invoke
-    43:44:void invoke(java.lang.String) -> invoke
+    40:40:java.lang.Object invoke(java.lang.Object) -> invoke
+    41:42:void invoke(java.lang.String) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$4 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$4:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    46:46:java.lang.Object invoke(java.lang.Object) -> invoke
-    47:48:void invoke(java.lang.String) -> invoke
+    44:44:java.lang.Object invoke(java.lang.Object) -> invoke
+    45:46:void invoke(java.lang.String) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$5 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$init$5:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    52:52:java.lang.Object invoke(java.lang.Object) -> invoke
-    53:54:void invoke(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> invoke
+    50:50:java.lang.Object invoke(java.lang.Object) -> invoke
+    51:52:void invoke(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$listener$1 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$listener$1:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    60:60:java.lang.Object invoke(java.lang.Object) -> invoke
-    61:64:void invoke(android.view.View) -> invoke
+    58:58:java.lang.Object invoke(java.lang.Object) -> invoke
+    59:62:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$listener$2 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$listener$2:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity) -> <init>
-    66:66:java.lang.Object invoke(java.lang.Object) -> invoke
-    67:68:void invoke(android.view.View) -> invoke
+    64:64:java.lang.Object invoke(java.lang.Object) -> invoke
+    65:66:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$sam$androidx_lifecycle_Observer$0 -> com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$sam$androidx_lifecycle_Observer$0:
 # {"id":"sourceFile","fileName":"LanguageSettingActivity.kt"}
     0:0:void <init>(kotlin.jvm.functions.Function1) -> <init>
@@ -22367,63 +22367,63 @@ com.charging.animation.mobile.battery.activity.language.LanguageSettingActivity$
     87:87:java.lang.Object invoke():87 -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
+    17:17:void <init>():17 -> <init>
+    20:20:void setLangDevice(java.lang.String) -> <init>
     20:20:void <init>():20 -> <init>
-    23:23:void setLangDevice(java.lang.String) -> <init>
-    23:23:void <init>():23 -> <init>
-    24:24:void setCodeLang(java.lang.String) -> <init>
-    24:24:void <init>():24 -> <init>
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    20:20:void <init>():20 -> <init>
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> access$getLanguageAdapter$p
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> access$getViewModel
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageViewModel access$getViewModel(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity):20 -> access$getViewModel
-    24:24:void setCodeLang(java.lang.String) -> getCodeLang
-    24:24:java.lang.String getCodeLang():24 -> getCodeLang
-    71:72:void init() -> init
-    28:63:void initView() -> initView
-    75:82:void listener() -> listener
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> setBinding
-    20:20:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):20 -> setBinding
-    66:66:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding setBinding(android.view.LayoutInflater) -> setBinding
-    24:24:void setCodeLang(java.lang.String) -> setCodeLang
-    23:23:void setLangDevice(java.lang.String) -> setLangDevice
-    20:20:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> setViewModel
-    20:20:androidx.lifecycle.ViewModel setViewModel():20 -> setViewModel
-    68:68:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
+    21:21:void setCodeLang(java.lang.String) -> <init>
+    21:21:void <init>():21 -> <init>
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
+    17:17:void <init>():17 -> <init>
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> access$getLanguageAdapter$p
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> access$getViewModel
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageViewModel access$getViewModel(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity):17 -> access$getViewModel
+    21:21:void setCodeLang(java.lang.String) -> getCodeLang
+    21:21:java.lang.String getCodeLang():21 -> getCodeLang
+    68:69:void init() -> init
+    25:60:void initView() -> initView
+    72:79:void listener() -> listener
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> setBinding
+    17:17:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):17 -> setBinding
+    63:63:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    21:21:void setCodeLang(java.lang.String) -> setCodeLang
+    20:20:void setLangDevice(java.lang.String) -> setLangDevice
+    17:17:com.charging.animation.mobile.battery.activity.language.LanguageStartAdapter access$getLanguageAdapter$p(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> setViewModel
+    17:17:androidx.lifecycle.ViewModel setViewModel():17 -> setViewModel
+    65:65:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
-    75:87:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel():68 -> setViewModel
-    68:68:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
-    86:86:void viewModel() -> viewModel
+    75:87:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel():65 -> setViewModel
+    65:65:com.charging.animation.mobile.battery.activity.language.LanguageViewModel setViewModel() -> setViewModel
+    83:83:void viewModel() -> viewModel
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$1 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$1:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
-    32:32:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    35:36:void onClickLanguage(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> onClickLanguage
+    29:29:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
+    32:33:void onClickLanguage(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> onClickLanguage
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$2 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$2:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    42:42:java.lang.Object invoke(java.lang.Object) -> invoke
-    43:44:void invoke(java.util.List) -> invoke
+    39:39:java.lang.Object invoke(java.lang.Object) -> invoke
+    40:41:void invoke(java.util.List) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$3 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$3:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    46:46:java.lang.Object invoke(java.lang.Object) -> invoke
-    47:48:void invoke(java.lang.String) -> invoke
+    43:43:java.lang.Object invoke(java.lang.Object) -> invoke
+    44:45:void invoke(java.lang.String) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$4 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$4:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    50:50:java.lang.Object invoke(java.lang.Object) -> invoke
-    51:52:void invoke(java.lang.String) -> invoke
+    47:47:java.lang.Object invoke(java.lang.Object) -> invoke
+    48:49:void invoke(java.lang.String) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$5 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$initView$5:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    58:58:java.lang.Object invoke(java.lang.Object) -> invoke
-    59:60:void invoke(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> invoke
+    55:55:java.lang.Object invoke(java.lang.Object) -> invoke
+    56:57:void invoke(com.charging.animation.mobile.battery.activity.language.model.LanguageModel) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$listener$1 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$listener$1:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.language.LanguageStartActivity) -> <init>
-    75:75:java.lang.Object invoke(java.lang.Object) -> invoke
-    76:81:void invoke(android.view.View) -> invoke
+    72:72:java.lang.Object invoke(java.lang.Object) -> invoke
+    73:78:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$sam$androidx_lifecycle_Observer$0 -> com.charging.animation.mobile.battery.activity.language.LanguageStartActivity$sam$androidx_lifecycle_Observer$0:
 # {"id":"sourceFile","fileName":"LanguageStartActivity.kt"}
     0:0:void <init>(kotlin.jvm.functions.Function1) -> <init>
@@ -22515,7 +22515,7 @@ com.charging.animation.mobile.battery.activity.main.MainActivity -> com.charging
       # {"id":"com.android.tools.r8.synthesized"}
     57:359:void <init>() -> <init>
     56:56:boolean access$getCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity) -> access$getBinding
-    56:56:com.charging.animation.mobile.battery.databinding.ActivityMainBinding access$getBinding(com.charging.animation.mobile.battery.activity.main.MainActivity):56 -> access$getBinding
+    56:56:com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.main.MainActivity):56 -> access$getBinding
     56:56:boolean access$getCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity) -> access$getCheckAlarm$p
     56:56:boolean access$getCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity) -> access$setCheckAlarm$p
     56:56:void access$setCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity,boolean):56 -> access$setCheckAlarm$p
@@ -22551,7 +22551,7 @@ com.charging.animation.mobile.battery.activity.main.MainActivity -> com.charging
     258:267:void select() -> select
     56:56:boolean access$getCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity) -> setBinding
     56:56:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):56 -> setBinding
-    64:64:com.charging.animation.mobile.battery.databinding.ActivityMainBinding setBinding(android.view.LayoutInflater) -> setBinding
+    64:64:com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     294:315:void setUpUi() -> setUpUi
     56:56:boolean access$getCheckAlarm$p(com.charging.animation.mobile.battery.activity.main.MainActivity) -> setViewModel
     56:56:androidx.lifecycle.ViewModel setViewModel():56 -> setViewModel
@@ -22700,44 +22700,44 @@ com.charging.animation.mobile.battery.activity.permission.PermissionActivity -> 
       # {"id":"com.android.tools.r8.synthesized"}
     0:0:void $r8$lambda$XKuMCC1DBVTLc0PSHYXshyw1N1c(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> $r8$lambda$XKuMCC1DBVTLc0PSHYXshyw1N1c
       # {"id":"com.android.tools.r8.synthesized"}
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
-    38:38:void <init>():38 -> <init>
-    108:137:void <init>() -> <init>
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
-    38:38:void <init>():38 -> <init>
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$checkAndRequestPermissions
-    38:38:void access$checkAndRequestPermissions(com.charging.animation.mobile.battery.activity.permission.PermissionActivity):38 -> access$checkAndRequestPermissions
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$getCheckStorage$p
-    38:38:boolean access$getCheckStorage$p(com.charging.animation.mobile.battery.activity.permission.PermissionActivity):38 -> access$getCheckStorage$p
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$nextActivity
-    51:65:void blur() -> blur
-    166:168:void checkAndRequestPermissions() -> checkAndRequestPermissions
-    173:202:void dialogForPermission() -> dialogForPermission
-    180:192:void dialogForPermission$lambda$2(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,android.content.DialogInterface) -> dialogForPermission$lambda$2
-    194:201:void dialogForPermission$lambda$3(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,android.view.View) -> dialogForPermission$lambda$3
-    42:47:eightbitlab.com.blurview.BlurAlgorithm getBlurAlgorithm() -> getBlurAlgorithm
-    72:96:void init() -> init
-    101:101:void listener() -> listener
-    161:163:void nextActivity() -> nextActivity
-    206:239:void onResume() -> onResume
-    139:140:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
+    35:35:void <init>():35 -> <init>
+    105:134:void <init>() -> <init>
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
+    35:35:void <init>():35 -> <init>
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$checkAndRequestPermissions
+    35:35:void access$checkAndRequestPermissions(com.charging.animation.mobile.battery.activity.permission.PermissionActivity):35 -> access$checkAndRequestPermissions
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$getCheckStorage$p
+    35:35:boolean access$getCheckStorage$p(com.charging.animation.mobile.battery.activity.permission.PermissionActivity):35 -> access$getCheckStorage$p
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> access$nextActivity
+    48:62:void blur() -> blur
+    163:165:void checkAndRequestPermissions() -> checkAndRequestPermissions
+    170:199:void dialogForPermission() -> dialogForPermission
+    177:189:void dialogForPermission$lambda$2(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,android.content.DialogInterface) -> dialogForPermission$lambda$2
+    191:198:void dialogForPermission$lambda$3(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,android.view.View) -> dialogForPermission$lambda$3
+    39:44:eightbitlab.com.blurview.BlurAlgorithm getBlurAlgorithm() -> getBlurAlgorithm
+    69:93:void init() -> init
+    98:98:void listener() -> listener
+    158:160:void nextActivity() -> nextActivity
+    203:236:void onResume() -> onResume
+    136:137:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
     1726:1727:boolean kotlin.collections.CollectionsKt___CollectionsKt.all(java.lang.Iterable,kotlin.jvm.functions.Function1) -> permissionsResult$lambda$1
-    1726:1727:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map):140 -> permissionsResult$lambda$1
-    140:140:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
+    1726:1727:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map):137 -> permissionsResult$lambda$1
+    137:137:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
     1727:1728:boolean kotlin.collections.CollectionsKt___CollectionsKt.all(java.lang.Iterable,kotlin.jvm.functions.Function1) -> permissionsResult$lambda$1
-    1727:1728:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map):140 -> permissionsResult$lambda$1
-    140:158:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
-    121:132:void requestStorage() -> requestStorage
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> setBinding
-    38:38:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):38 -> setBinding
-    68:68:com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding setBinding(android.view.LayoutInflater) -> setBinding
-    38:38:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> setViewModel
-    38:38:androidx.lifecycle.ViewModel setViewModel():38 -> setViewModel
-    70:70:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel() -> setViewModel
+    1727:1728:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map):137 -> permissionsResult$lambda$1
+    137:155:void permissionsResult$lambda$1(com.charging.animation.mobile.battery.activity.permission.PermissionActivity,java.util.Map) -> permissionsResult$lambda$1
+    118:129:void requestStorage() -> requestStorage
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> setBinding
+    35:35:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):35 -> setBinding
+    65:65:com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    35:35:void access$nextActivity(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> setViewModel
+    35:35:androidx.lifecycle.ViewModel setViewModel():35 -> setViewModel
+    67:67:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
-    75:87:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel():70 -> setViewModel
-    70:70:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel() -> setViewModel
-    105:105:void viewModel() -> viewModel
+    75:87:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel():67 -> setViewModel
+    67:67:com.charging.animation.mobile.battery.activity.permission.PermissionViewModel setViewModel() -> setViewModel
+    102:102:void viewModel() -> viewModel
 com.charging.animation.mobile.battery.activity.permission.PermissionActivity$$ExternalSyntheticLambda0 -> com.charging.animation.mobile.battery.activity.permission.PermissionActivity$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -22765,13 +22765,13 @@ com.charging.animation.mobile.battery.activity.permission.PermissionActivity$$Ex
 com.charging.animation.mobile.battery.activity.permission.PermissionActivity$init$1 -> com.charging.animation.mobile.battery.activity.permission.PermissionActivity$init$1:
 # {"id":"sourceFile","fileName":"PermissionActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
-    84:84:java.lang.Object invoke(java.lang.Object) -> invoke
-    85:89:void invoke(android.view.View) -> invoke
+    81:81:java.lang.Object invoke(java.lang.Object) -> invoke
+    82:86:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.permission.PermissionActivity$init$2 -> com.charging.animation.mobile.battery.activity.permission.PermissionActivity$init$2:
 # {"id":"sourceFile","fileName":"PermissionActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.permission.PermissionActivity) -> <init>
-    91:91:java.lang.Object invoke(java.lang.Object) -> invoke
-    92:93:void invoke(android.view.View) -> invoke
+    88:88:java.lang.Object invoke(java.lang.Object) -> invoke
+    89:90:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.permission.PermissionActivity$setViewModel$$inlined$viewModels$default$1 -> com.charging.animation.mobile.battery.activity.permission.PermissionActivity$setViewModel$$inlined$viewModels$default$1:
 # {"id":"sourceFile","fileName":"ActivityViewModelLazy.kt"}
     0:0:void <init>(androidx.activity.ComponentActivity) -> <init>
@@ -22804,7 +22804,7 @@ com.charging.animation.mobile.battery.activity.policy.PolicyActivity -> com.char
     27:27:void listener() -> listener
     10:10:androidx.lifecycle.ViewModel setViewModel() -> setBinding
     10:10:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):10 -> setBinding
-    12:12:com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding setBinding(android.view.LayoutInflater) -> setBinding
+    12:12:com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     10:10:androidx.lifecycle.ViewModel setViewModel() -> setViewModel
     14:14:com.charging.animation.mobile.battery.activity.policy.PolicyViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -22876,7 +22876,7 @@ com.charging.animation.mobile.battery.activity.ring.RingtoneActivity -> com.char
     243:247:void requestStorage() -> requestStorage
     31:31:void access$setMediaPlayer$p(com.charging.animation.mobile.battery.activity.ring.RingtoneActivity,android.media.MediaPlayer) -> setBinding
     31:31:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):31 -> setBinding
-    41:41:com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding setBinding(android.view.LayoutInflater) -> setBinding
+    41:41:com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     31:31:void access$setMediaPlayer$p(com.charging.animation.mobile.battery.activity.ring.RingtoneActivity,android.media.MediaPlayer) -> setViewModel
     31:31:androidx.lifecycle.ViewModel setViewModel():31 -> setViewModel
     43:43:com.charging.animation.mobile.battery.activity.ring.RingtoneViewModel setViewModel() -> setViewModel
@@ -22940,21 +22940,21 @@ com.charging.animation.mobile.battery.activity.ring.RingtoneViewModel -> com.cha
     5:5:void <init>() -> <init>
 com.charging.animation.mobile.battery.activity.splash.SplashActivity -> com.charging.animation.mobile.battery.activity.splash.SplashActivity:
 # {"id":"sourceFile","fileName":"SplashActivity.kt"}
-    24:24:void <init>() -> <init>
-    22:22:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> access$getBinding
-    33:47:void init() -> init
-    51:51:void listener() -> listener
-    22:22:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> setBinding
-    22:22:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):22 -> setBinding
-    27:27:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding setBinding(android.view.LayoutInflater) -> setBinding
-    22:22:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> setViewModel
-    22:22:androidx.lifecycle.ViewModel setViewModel():22 -> setViewModel
-    29:29:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel() -> setViewModel
+    21:21:void <init>() -> <init>
+    19:19:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> access$getBinding
+    30:44:void init() -> init
+    48:48:void listener() -> listener
+    19:19:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> setBinding
+    19:19:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):19 -> setBinding
+    24:24:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    19:19:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> setViewModel
+    19:19:androidx.lifecycle.ViewModel setViewModel():19 -> setViewModel
+    26:26:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
-    75:87:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel():29 -> setViewModel
-    29:29:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel() -> setViewModel
-    65:74:void start() -> start
-    54:62:void viewModel() -> viewModel
+    75:87:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel():26 -> setViewModel
+    26:26:com.charging.animation.mobile.battery.activity.splash.SplashViewModel setViewModel() -> setViewModel
+    62:71:void start() -> start
+    51:59:void viewModel() -> viewModel
 com.charging.animation.mobile.battery.activity.splash.SplashActivity$sam$androidx_lifecycle_Observer$0 -> com.charging.animation.mobile.battery.activity.splash.SplashActivity$sam$androidx_lifecycle_Observer$0:
 # {"id":"sourceFile","fileName":"SplashActivity.kt"}
     0:0:void <init>(kotlin.jvm.functions.Function1) -> <init>
@@ -22986,13 +22986,13 @@ com.charging.animation.mobile.battery.activity.splash.SplashActivity$setViewMode
 com.charging.animation.mobile.battery.activity.splash.SplashActivity$viewModel$1 -> com.charging.animation.mobile.battery.activity.splash.SplashActivity$viewModel$1:
 # {"id":"sourceFile","fileName":"SplashActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> <init>
-    54:54:java.lang.Object invoke(java.lang.Object) -> invoke
-    55:57:void invoke(java.lang.Integer) -> invoke
+    51:51:java.lang.Object invoke(java.lang.Object) -> invoke
+    52:54:void invoke(java.lang.Integer) -> invoke
 com.charging.animation.mobile.battery.activity.splash.SplashActivity$viewModel$2 -> com.charging.animation.mobile.battery.activity.splash.SplashActivity$viewModel$2:
 # {"id":"sourceFile","fileName":"SplashActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.splash.SplashActivity) -> <init>
-    59:59:java.lang.Object invoke(java.lang.Object) -> invoke
-    60:61:void invoke(java.lang.Boolean) -> invoke
+    56:56:java.lang.Object invoke(java.lang.Object) -> invoke
+    57:58:void invoke(java.lang.Boolean) -> invoke
 com.charging.animation.mobile.battery.activity.splash.SplashViewModel -> com.charging.animation.mobile.battery.activity.splash.SplashViewModel:
 # {"id":"sourceFile","fileName":"SplashViewModel.kt"}
     11:36:void <init>() -> <init>
@@ -23023,23 +23023,23 @@ com.charging.animation.mobile.battery.activity.splash.SplashViewModel$countDownT
     21:23:java.lang.Object invokeSuspend(java.lang.Object) -> invokeSuspend
 com.charging.animation.mobile.battery.activity.success.SuccessActivity -> com.charging.animation.mobile.battery.activity.success.SuccessActivity:
 # {"id":"sourceFile","fileName":"SuccessActivity.kt"}
-    15:15:void <init>() -> <init>
-    21:25:void init() -> init
-    28:35:void listener() -> listener
-    14:14:androidx.lifecycle.ViewModel setViewModel() -> setBinding
-    14:14:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):14 -> setBinding
-    17:17:com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding setBinding(android.view.LayoutInflater) -> setBinding
-    14:14:androidx.lifecycle.ViewModel setViewModel() -> setViewModel
-    19:19:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel() -> setViewModel
+    14:14:void <init>() -> <init>
+    20:24:void init() -> init
+    27:34:void listener() -> listener
+    13:13:androidx.lifecycle.ViewModel setViewModel() -> setBinding
+    13:13:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):13 -> setBinding
+    16:16:com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
+    13:13:androidx.lifecycle.ViewModel setViewModel() -> setViewModel
+    18:18:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel() -> setViewModel
     75:87:kotlin.Lazy androidx.activity.ActivityViewModelLazyKt.viewModels$default(androidx.activity.ComponentActivity,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
-    75:87:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel():19 -> setViewModel
-    19:19:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel() -> setViewModel
-    39:39:void viewModel() -> viewModel
+    75:87:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel():18 -> setViewModel
+    18:18:com.charging.animation.mobile.battery.activity.success.SuccessViewModel setViewModel() -> setViewModel
+    38:38:void viewModel() -> viewModel
 com.charging.animation.mobile.battery.activity.success.SuccessActivity$listener$1 -> com.charging.animation.mobile.battery.activity.success.SuccessActivity$listener$1:
 # {"id":"sourceFile","fileName":"SuccessActivity.kt"}
     0:0:void <init>(com.charging.animation.mobile.battery.activity.success.SuccessActivity) -> <init>
-    28:28:java.lang.Object invoke(java.lang.Object) -> invoke
-    29:31:void invoke(android.view.View) -> invoke
+    27:27:java.lang.Object invoke(java.lang.Object) -> invoke
+    28:30:void invoke(android.view.View) -> invoke
 com.charging.animation.mobile.battery.activity.success.SuccessActivity$setViewModel$$inlined$viewModels$default$1 -> com.charging.animation.mobile.battery.activity.success.SuccessActivity$setViewModel$$inlined$viewModels$default$1:
 # {"id":"sourceFile","fileName":"ActivityViewModelLazy.kt"}
     0:0:void <init>(androidx.activity.ComponentActivity) -> <init>
@@ -23075,7 +23075,7 @@ com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity -> com.
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> access$dotSelect
     28:28:void access$dotSelect(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity):28 -> access$dotSelect
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> access$getBinding
-    28:28:com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding access$getBinding(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity):28 -> access$getBinding
+    28:28:com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding access$getBinding(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity):28 -> access$getBinding
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> access$setCheck$p
     28:28:void access$setCheck$p(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity,int):28 -> access$setCheck$p
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> access$start
@@ -23088,11 +23088,11 @@ com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity -> com.
     29:29:java.util.List getList():29 -> getList
     124:127:void init() -> init
     130:170:void listener() -> listener
-    227:228:void onBackPressed() -> onBackPressed
+    227:229:void onBackPressed() -> onBackPressed
     57:116:void recycleView() -> recycleView
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> setBinding
     28:28:androidx.viewbinding.ViewBinding setBinding(android.view.LayoutInflater):28 -> setBinding
-    119:119:com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding setBinding(android.view.LayoutInflater) -> setBinding
+    119:119:com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding setBinding(android.view.LayoutInflater) -> setBinding
     28:28:void access$start(com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity) -> setViewModel
     28:28:androidx.lifecycle.ViewModel setViewModel():28 -> setViewModel
     121:121:com.charging.animation.mobile.battery.activity.tutorial.TutorialViewModel setViewModel() -> setViewModel
@@ -23243,104 +23243,104 @@ com.charging.animation.mobile.battery.database.ResultsDao_Impl$2 -> com.charging
 com.charging.animation.mobile.battery.database.ResultsDao_Impl$3 -> com.charging.animation.mobile.battery.database.ResultsDao_Impl$3:
     68:68:void <init>(com.charging.animation.mobile.battery.database.ResultsDao_Impl,androidx.room.RoomDatabase) -> <init>
     72:72:java.lang.String createQuery() -> createQuery
-com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding -> com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding:
+com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding:
     56:67:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,com.mikhaellopez.circularprogressbar.CircularProgressBar,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView) -> <init>
-    96:155:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding bind(android.view.View) -> bind
+    96:155:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     72:72:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    77:77:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding inflate(android.view.LayoutInflater) -> inflate
-    83:87:com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding -> com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding:
+    77:77:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding inflate(android.view.LayoutInflater) -> inflate
+    83:87:com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding:
     97:119:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,androidx.cardview.widget.CardView,androidx.cardview.widget.CardView,com.mikhaellopez.circularprogressbar.CircularProgressBar,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    148:274:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding bind(android.view.View) -> bind
+    148:274:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding bind(android.view.View) -> bind
     24:24:android.view.View getRoot() -> getRoot
     124:124:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    129:129:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding inflate(android.view.LayoutInflater) -> inflate
-    135:139:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityDownBinding -> com.charging.animation.mobile.battery.databinding.ActivityDownBinding:
-    69:84:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    113:196:com.charging.animation.mobile.battery.databinding.ActivityDownBinding bind(android.view.View) -> bind
+    129:129:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    135:139:com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding:
+    70:85:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
+    114:197:com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
-    89:89:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    94:94:com.charging.animation.mobile.battery.databinding.ActivityDownBinding inflate(android.view.LayoutInflater) -> inflate
-    100:104:com.charging.animation.mobile.battery.databinding.ActivityDownBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityInfoBinding -> com.charging.animation.mobile.battery.databinding.ActivityInfoBinding:
+    90:90:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
+    95:95:com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    101:105:com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding:
     54:64:void <init>(androidx.constraintlayout.widget.ConstraintLayout,androidx.appcompat.widget.AppCompatButton,androidx.appcompat.widget.AppCompatButton,android.widget.ImageView,com.charging.animation.mobile.battery.databinding.AdsBinding,androidx.appcompat.widget.LinearLayoutCompat,androidx.constraintlayout.widget.ConstraintLayout,com.charging.animation.mobile.battery.custom.view.CustomTextView,androidx.viewpager.widget.ViewPager) -> <init>
-    93:146:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding bind(android.view.View) -> bind
+    93:146:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding bind(android.view.View) -> bind
     22:22:android.view.View getRoot() -> getRoot
     69:69:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    74:74:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding inflate(android.view.LayoutInflater) -> inflate
-    80:84:com.charging.animation.mobile.battery.databinding.ActivityInfoBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding -> com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding:
+    74:74:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    80:84:com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding:
     45:53:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,com.charging.animation.mobile.battery.databinding.AdsBinding,androidx.recyclerview.widget.RecyclerView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.TextView) -> <init>
-    82:123:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding bind(android.view.View) -> bind
+    82:123:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding bind(android.view.View) -> bind
     20:20:android.view.View getRoot() -> getRoot
     58:58:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    63:63:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding inflate(android.view.LayoutInflater) -> inflate
-    69:73:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding -> com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding:
+    63:63:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    69:73:com.charging.animation.mobile.battery.databinding.ActivityLanguageSettingUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding:
     45:53:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,com.charging.animation.mobile.battery.databinding.AdsBinding,androidx.recyclerview.widget.RecyclerView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.TextView) -> <init>
-    82:123:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding bind(android.view.View) -> bind
+    82:123:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding bind(android.view.View) -> bind
     20:20:android.view.View getRoot() -> getRoot
     58:58:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    63:63:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding inflate(android.view.LayoutInflater) -> inflate
-    69:73:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityMainBinding -> com.charging.animation.mobile.battery.databinding.ActivityMainBinding:
+    63:63:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    69:73:com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding:
     89:109:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,androidx.cardview.widget.CardView,androidx.cardview.widget.CardView,androidx.cardview.widget.CardView,android.widget.ImageView,androidx.cardview.widget.CardView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.FrameLayout,android.widget.ProgressBar,androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.TextView,android.widget.TextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,androidx.viewpager.widget.ViewPager) -> <init>
-    138:251:com.charging.animation.mobile.battery.databinding.ActivityMainBinding bind(android.view.View) -> bind
+    138:251:com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding bind(android.view.View) -> bind
     25:25:android.view.View getRoot() -> getRoot
     114:114:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    119:119:com.charging.animation.mobile.battery.databinding.ActivityMainBinding inflate(android.view.LayoutInflater) -> inflate
-    125:129:com.charging.animation.mobile.battery.databinding.ActivityMainBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding -> com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding:
+    119:119:com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    125:129:com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding:
     29:33:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView) -> <init>
-    62:77:com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding bind(android.view.View) -> bind
+    62:77:com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding bind(android.view.View) -> bind
     18:18:android.view.View getRoot() -> getRoot
     38:38:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    43:43:com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding inflate(android.view.LayoutInflater) -> inflate
-    49:53:com.charging.animation.mobile.battery.databinding.ActivityNoInternetBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding -> com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding:
+    43:43:com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    49:53:com.charging.animation.mobile.battery.databinding.ActivityNoInternetUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding:
     89:109:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,eightbitlab.com.blurview.BlurView,android.view.View,android.view.View,android.view.View,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.LinearLayout,androidx.cardview.widget.CardView,androidx.cardview.widget.CardView,androidx.appcompat.widget.LinearLayoutCompat,android.widget.ImageView,android.widget.TextView,android.widget.TextView,android.widget.TextView) -> <init>
-    138:252:com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding bind(android.view.View) -> bind
+    138:252:com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding bind(android.view.View) -> bind
     24:24:android.view.View getRoot() -> getRoot
     114:114:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    119:119:com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding inflate(android.view.LayoutInflater) -> inflate
-    125:129:com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding -> com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding:
+    119:119:com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    125:129:com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding:
     38:44:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,com.charging.animation.mobile.battery.custom.view.CustomTextView,android.webkit.WebView) -> <init>
-    73:101:com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding bind(android.view.View) -> bind
+    73:101:com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding bind(android.view.View) -> bind
     20:20:android.view.View getRoot() -> getRoot
     49:49:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    54:54:com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding inflate(android.view.LayoutInflater) -> inflate
-    60:64:com.charging.animation.mobile.battery.databinding.ActivityPolicyBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding -> com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding:
-    45:53:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.FrameLayout,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.TextView) -> <init>
-    82:122:com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding bind(android.view.View) -> bind
+    54:54:com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    60:64:com.charging.animation.mobile.battery.databinding.ActivityPolicyUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding:
+    46:54:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.FrameLayout,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.constraintlayout.widget.ConstraintLayout,android.widget.TextView) -> <init>
+    83:123:com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
-    58:58:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    63:63:com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding inflate(android.view.LayoutInflater) -> inflate
-    69:73:com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding -> com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding:
+    59:59:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
+    64:64:com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    70:74:com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding:
     48:56:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,androidx.appcompat.widget.AppCompatImageView,me.zhouzhuo.zzhorizontalprogressbar.ZzHorizontalProgressBar,com.charging.animation.mobile.battery.custom.view.CustomTextView,androidx.appcompat.widget.AppCompatTextView,android.widget.TextView) -> <init>
-    85:125:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding bind(android.view.View) -> bind
+    85:125:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding bind(android.view.View) -> bind
     23:23:android.view.View getRoot() -> getRoot
     61:61:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    66:66:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding inflate(android.view.LayoutInflater) -> inflate
-    72:76:com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding -> com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding:
+    66:66:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    72:76:com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding:
     44:52:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.view.View,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.LinearLayout) -> <init>
-    81:121:com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding bind(android.view.View) -> bind
+    81:121:com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding bind(android.view.View) -> bind
     20:20:android.view.View getRoot() -> getRoot
     57:57:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    62:62:com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding inflate(android.view.LayoutInflater) -> inflate
-    68:72:com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding -> com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding:
-    71:86:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,android.view.View,android.view.View,android.view.View,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.cardview.widget.CardView,androidx.appcompat.widget.LinearLayoutCompat,android.widget.TextView,android.widget.TextView,androidx.viewpager2.widget.ViewPager2) -> <init>
-    115:193:com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding bind(android.view.View) -> bind
+    62:62:com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    68:72:com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding -> com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding:
+    72:87:void <init>(androidx.constraintlayout.widget.ConstraintLayout,eightbitlab.com.blurview.BlurView,android.view.View,android.view.View,android.view.View,android.widget.FrameLayout,android.widget.ImageView,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.cardview.widget.CardView,androidx.appcompat.widget.LinearLayoutCompat,android.widget.TextView,android.widget.TextView,androidx.viewpager2.widget.ViewPager2) -> <init>
+    116:195:com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding bind(android.view.View) -> bind
     24:24:android.view.View getRoot() -> getRoot
-    91:91:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    96:96:com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding inflate(android.view.LayoutInflater) -> inflate
-    102:106:com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+    92:92:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
+    97:97:com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    103:107:com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
 com.charging.animation.mobile.battery.databinding.AdsBinding -> com.charging.animation.mobile.battery.databinding.AdsBinding:
     19:21:void <init>(androidx.constraintlayout.widget.ConstraintLayout) -> <init>
     46:50:com.charging.animation.mobile.battery.databinding.AdsBinding bind(android.view.View) -> bind
@@ -23367,62 +23367,62 @@ com.charging.animation.mobile.battery.databinding.DialogSettingBinding -> com.ch
     80:80:androidx.cardview.widget.CardView getRoot() -> getRoot
     85:85:com.charging.animation.mobile.battery.databinding.DialogSettingBinding inflate(android.view.LayoutInflater) -> inflate
     91:95:com.charging.animation.mobile.battery.databinding.DialogSettingBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding -> com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding:
+com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding:
     87:107:void <init>(androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.LinearLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.TextView,android.widget.TextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,android.widget.LinearLayout) -> <init>
-    136:249:com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding bind(android.view.View) -> bind
+    136:249:com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     112:112:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    117:117:com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding inflate(android.view.LayoutInflater) -> inflate
-    123:127:com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding -> com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding:
+    117:117:com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    123:127:com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding:
     110:137:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.LinearLayout,androidx.core.widget.NestedScrollView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView,android.widget.LinearLayout,com.charging.animation.mobile.battery.custom.view.CustomTextView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    166:321:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding bind(android.view.View) -> bind
+    166:321:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     142:142:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    147:147:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding inflate(android.view.LayoutInflater) -> inflate
-    153:157:com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentCustomBinding -> com.charging.animation.mobile.battery.databinding.FragmentCustomBinding:
+    147:147:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    153:157:com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding:
     42:49:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.core.widget.NestedScrollView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    78:112:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding bind(android.view.View) -> bind
+    78:112:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     54:54:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    59:59:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding inflate(android.view.LayoutInflater) -> inflate
-    65:69:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentDownBinding -> com.charging.animation.mobile.battery.databinding.FragmentDownBinding:
+    59:59:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    65:69:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding:
     42:49:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.core.widget.NestedScrollView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    78:112:com.charging.animation.mobile.battery.databinding.FragmentDownBinding bind(android.view.View) -> bind
+    78:112:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     54:54:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    59:59:com.charging.animation.mobile.battery.databinding.FragmentDownBinding inflate(android.view.LayoutInflater) -> inflate
-    65:69:com.charging.animation.mobile.battery.databinding.FragmentDownBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding -> com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding:
+    59:59:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    65:69:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding:
     43:50:void <init>(androidx.constraintlayout.widget.ConstraintLayout,androidx.appcompat.widget.AppCompatButton,androidx.appcompat.widget.AppCompatButton,android.widget.FrameLayout,androidx.appcompat.widget.LinearLayoutCompat,androidx.viewpager.widget.ViewPager) -> <init>
-    79:113:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding bind(android.view.View) -> bind
+    79:113:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     55:55:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    60:60:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding inflate(android.view.LayoutInflater) -> inflate
-    66:70:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentHomeBinding -> com.charging.animation.mobile.battery.databinding.FragmentHomeBinding:
+    60:60:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    66:70:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding:
     64:76:void <init>(androidx.constraintlayout.widget.ConstraintLayout,com.google.android.material.appbar.AppBarLayout,com.google.android.material.appbar.CollapsingToolbarLayout,android.widget.ImageView,android.widget.ImageView,androidx.appcompat.widget.Toolbar,android.widget.ProgressBar,androidx.recyclerview.widget.RecyclerView,androidx.recyclerview.widget.RecyclerView,android.widget.TextView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
-    105:170:com.charging.animation.mobile.battery.databinding.FragmentHomeBinding bind(android.view.View) -> bind
+    105:170:com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding bind(android.view.View) -> bind
     25:25:android.view.View getRoot() -> getRoot
     81:81:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    86:86:com.charging.animation.mobile.battery.databinding.FragmentHomeBinding inflate(android.view.LayoutInflater) -> inflate
-    92:96:com.charging.animation.mobile.battery.databinding.FragmentHomeBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentMobileBinding -> com.charging.animation.mobile.battery.databinding.FragmentMobileBinding:
-    34:39:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.core.widget.NestedScrollView) -> <init>
-    68:90:com.charging.animation.mobile.battery.databinding.FragmentMobileBinding bind(android.view.View) -> bind
+    86:86:com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    92:96:com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding:
+    35:40:void <init>(androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,androidx.recyclerview.widget.RecyclerView,androidx.core.widget.NestedScrollView) -> <init>
+    69:91:com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding bind(android.view.View) -> bind
     20:20:android.view.View getRoot() -> getRoot
-    44:44:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    49:49:com.charging.animation.mobile.battery.databinding.FragmentMobileBinding inflate(android.view.LayoutInflater) -> inflate
-    55:59:com.charging.animation.mobile.battery.databinding.FragmentMobileBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
-com.charging.animation.mobile.battery.databinding.FragmentSettingBinding -> com.charging.animation.mobile.battery.databinding.FragmentSettingBinding:
+    45:45:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
+    50:50:com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    56:60:com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding -> com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding:
     137:172:void <init>(androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,android.widget.FrameLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,androidx.constraintlayout.widget.ConstraintLayout,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,android.widget.ImageView,androidx.core.widget.NestedScrollView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView,android.widget.TextView) -> <init>
-    201:406:com.charging.animation.mobile.battery.databinding.FragmentSettingBinding bind(android.view.View) -> bind
+    201:406:com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding bind(android.view.View) -> bind
     21:21:android.view.View getRoot() -> getRoot
     177:177:androidx.constraintlayout.widget.ConstraintLayout getRoot() -> getRoot
-    182:182:com.charging.animation.mobile.battery.databinding.FragmentSettingBinding inflate(android.view.LayoutInflater) -> inflate
-    188:192:com.charging.animation.mobile.battery.databinding.FragmentSettingBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
+    182:182:com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding inflate(android.view.LayoutInflater) -> inflate
+    188:192:com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding inflate(android.view.LayoutInflater,android.view.ViewGroup,boolean) -> inflate
 com.charging.animation.mobile.battery.databinding.ItemFragmentHomeItemCategoryBinding -> com.charging.animation.mobile.battery.databinding.ItemFragmentHomeItemCategoryBinding:
     29:33:void <init>(androidx.cardview.widget.CardView,androidx.cardview.widget.CardView,com.charging.animation.mobile.battery.custom.view.CustomTextView) -> <init>
     62:74:com.charging.animation.mobile.battery.databinding.ItemFragmentHomeItemCategoryBinding bind(android.view.View) -> bind
@@ -23635,7 +23635,7 @@ com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment -> com.chargi
     174:174:void <init>():174 -> <init>
     31:31:void <init>() -> <init>
     30:30:void access$setHigh$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment,boolean) -> access$getBinding
-    30:30:com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding access$getBinding(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment):30 -> access$getBinding
+    30:30:com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment):30 -> access$getBinding
     30:30:void access$setHigh$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment,boolean) -> access$isHigh$p
     30:30:boolean access$isHigh$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment):30 -> access$isHigh$p
     30:30:void access$setHigh$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment,boolean) -> access$isLow$p
@@ -23649,7 +23649,7 @@ com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment -> com.chargi
     30:30:void access$setService$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment,boolean):30 -> access$setService$p
     30:30:void access$setHigh$p(com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment,boolean) -> getViewBinding
     30:30:androidx.viewbinding.ViewBinding getViewBinding():30 -> getViewBinding
-    35:35:com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding getViewBinding() -> getViewBinding
+    35:35:com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding getViewBinding() -> getViewBinding
     40:107:void init() -> init
     110:156:void listener() -> listener
     223:231:void onDestroy() -> onDestroy
@@ -23759,15 +23759,15 @@ com.charging.animation.mobile.battery.fragment.alarm.RingtoneAdapter$MobileViewH
     74:80:void <init>(android.view.View) -> <init>
 com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment -> com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment:
 # {"id":"sourceFile","fileName":"GalleryFragment.kt"}
-    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> <init>
+    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> <init>
     12:12:void <init>():12 -> <init>
-    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> access$getBinding
-    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> getViewBinding
+    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> access$getBinding
+    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> getViewBinding
     12:12:androidx.viewbinding.ViewBinding getViewBinding():12 -> getViewBinding
-    63:63:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding getViewBinding() -> getViewBinding
+    63:63:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding getViewBinding() -> getViewBinding
     16:21:void init() -> init
     24:57:void listener() -> listener
-    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> setViewModel
+    12:12:com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.GalleryFragment) -> setViewModel
     12:12:androidx.lifecycle.ViewModel setViewModel():12 -> setViewModel
     65:65:com.charging.animation.mobile.battery.fragment.gallery.GalleryViewModel setViewModel() -> setViewModel
     106:109:kotlin.Lazy androidx.fragment.app.FragmentViewModelLazyKt.viewModels$default(androidx.fragment.app.Fragment,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -23883,20 +23883,20 @@ com.charging.animation.mobile.battery.fragment.gallery.adapter.TopAdapter -> com
 com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment -> com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment:
 # {"id":"sourceFile","fileName":"CustomFragment.kt"}
     25:73:void <init>() -> <init>
-    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> access$getBinding
+    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> access$getBinding
     26:26:void setAdapterGallery(com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter) -> getAdapterGallery
     26:26:com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter getAdapterGallery():26 -> getAdapterGallery
     27:27:void setListGallery(java.util.List) -> getListGallery
     27:27:java.util.List getListGallery():27 -> getListGallery
-    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> getViewBinding
+    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> getViewBinding
     24:24:androidx.viewbinding.ViewBinding getViewBinding():24 -> getViewBinding
-    28:28:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding getViewBinding() -> getViewBinding
+    28:28:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding getViewBinding() -> getViewBinding
     33:56:void init() -> init
     59:66:void listener() -> listener
     96:98:void onDestroy() -> onDestroy
     91:93:void onResume() -> onResume
     27:27:void setListGallery(java.util.List) -> setListGallery
-    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> setViewModel
+    24:24:com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.CustomFragment) -> setViewModel
     24:24:androidx.lifecycle.ViewModel setViewModel():24 -> setViewModel
     30:30:com.charging.animation.mobile.battery.fragment.gallery.GalleryViewModel setViewModel() -> setViewModel
     106:109:kotlin.Lazy androidx.fragment.app.FragmentViewModelLazyKt.viewModels$default(androidx.fragment.app.Fragment,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -23971,25 +23971,25 @@ com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment -> 
 # {"id":"sourceFile","fileName":"DownFragment.kt"}
     0:0:void $r8$lambda$fBvnKpcnZsdVUwz6rqxVWBuLwA8(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment,android.view.View) -> $r8$lambda$fBvnKpcnZsdVUwz6rqxVWBuLwA8
       # {"id":"com.android.tools.r8.synthesized"}
-    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> <init>
+    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> <init>
     23:23:void <init>():23 -> <init>
     72:72:void <init>() -> <init>
-    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> <init>
+    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> <init>
     23:23:void <init>():23 -> <init>
-    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> access$getBinding
+    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> access$getBinding
     24:24:void setAdapterGallery(com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter) -> getAdapterGallery
     24:24:com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter getAdapterGallery():24 -> getAdapterGallery
     25:25:void setListGallery(java.util.List) -> getListGallery
     25:25:java.util.List getListGallery():25 -> getListGallery
-    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> getViewBinding
+    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> getViewBinding
     23:23:androidx.viewbinding.ViewBinding getViewBinding():23 -> getViewBinding
-    26:26:com.charging.animation.mobile.battery.databinding.FragmentDownBinding getViewBinding() -> getViewBinding
+    26:26:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding getViewBinding() -> getViewBinding
     30:62:void init() -> init
     56:61:void init$lambda$0(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment,android.view.View) -> init$lambda$0
     66:66:void listener() -> listener
     90:92:void onDestroy() -> onDestroy
     25:25:void setListGallery(java.util.List) -> setListGallery
-    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> setViewModel
+    23:23:com.charging.animation.mobile.battery.databinding.FragmentDownUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.gallery.fragment.DownFragment) -> setViewModel
     23:23:androidx.lifecycle.ViewModel setViewModel():23 -> setViewModel
     27:27:com.charging.animation.mobile.battery.fragment.gallery.GalleryViewModel setViewModel() -> setViewModel
     106:109:kotlin.Lazy androidx.fragment.app.FragmentViewModelLazyKt.viewModels$default(androidx.fragment.app.Fragment,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0,int,java.lang.Object) -> setViewModel
@@ -24071,7 +24071,7 @@ com.charging.animation.mobile.battery.fragment.home.HomeFragment -> com.charging
     38:38:java.lang.String access$getNameCategory$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment) -> access$getAdapter$p
     38:38:com.charging.animation.mobile.battery.fragment.home.adapter.AnimContentAndAdsAdapter access$getAdapter$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment):38 -> access$getAdapter$p
     38:38:java.lang.String access$getNameCategory$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment) -> access$getBinding
-    38:38:com.charging.animation.mobile.battery.databinding.FragmentHomeBinding access$getBinding(com.charging.animation.mobile.battery.fragment.home.HomeFragment):38 -> access$getBinding
+    38:38:com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.home.HomeFragment):38 -> access$getBinding
     38:38:java.lang.String access$getNameCategory$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment) -> access$getList$p
     38:38:java.util.List access$getList$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment):38 -> access$getList$p
     38:38:java.lang.String access$getNameCategory$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment) -> access$getNameCategory$p
@@ -24102,7 +24102,7 @@ com.charging.animation.mobile.battery.fragment.home.HomeFragment -> com.charging
     256:272:void check(java.util.List,com.charging.animation.mobile.battery.api.Results) -> check
     38:38:java.lang.String access$getNameCategory$p(com.charging.animation.mobile.battery.fragment.home.HomeFragment) -> getViewBinding
     38:38:androidx.viewbinding.ViewBinding getViewBinding():38 -> getViewBinding
-    44:44:com.charging.animation.mobile.battery.databinding.FragmentHomeBinding getViewBinding() -> getViewBinding
+    44:44:com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding getViewBinding() -> getViewBinding
     50:58:void init() -> init
     230:253:void intent(com.charging.animation.mobile.battery.api.Results) -> intent
     62:71:void listener() -> listener
@@ -24393,7 +24393,7 @@ com.charging.animation.mobile.battery.fragment.setting.SettingFragment -> com.ch
       # {"id":"com.android.tools.r8.synthesized"}
     44:463:void <init>() -> <init>
     43:43:void access$showRateDialog(com.charging.animation.mobile.battery.fragment.setting.SettingFragment) -> access$getBinding
-    43:43:com.charging.animation.mobile.battery.databinding.FragmentSettingBinding access$getBinding(com.charging.animation.mobile.battery.fragment.setting.SettingFragment):43 -> access$getBinding
+    43:43:com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding access$getBinding(com.charging.animation.mobile.battery.fragment.setting.SettingFragment):43 -> access$getBinding
     43:43:void access$showRateDialog(com.charging.animation.mobile.battery.fragment.setting.SettingFragment) -> access$isPercent$p
     43:43:boolean access$isPercent$p(com.charging.animation.mobile.battery.fragment.setting.SettingFragment):43 -> access$isPercent$p
     43:43:void access$showRateDialog(com.charging.animation.mobile.battery.fragment.setting.SettingFragment) -> access$isShare$p
@@ -24414,7 +24414,7 @@ com.charging.animation.mobile.battery.fragment.setting.SettingFragment -> com.ch
     423:449:void feedback() -> feedback
     43:43:void access$showRateDialog(com.charging.animation.mobile.battery.fragment.setting.SettingFragment) -> getViewBinding
     43:43:androidx.viewbinding.ViewBinding getViewBinding():43 -> getViewBinding
-    52:52:com.charging.animation.mobile.battery.databinding.FragmentSettingBinding getViewBinding() -> getViewBinding
+    52:52:com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding getViewBinding() -> getViewBinding
     57:104:void init() -> init
     107:161:void listener() -> listener
     232:251:void onActivityResult(int,int,android.content.Intent) -> onActivityResult

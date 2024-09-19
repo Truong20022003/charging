@@ -9,13 +9,13 @@ import androidx.recyclerview.widget.RecyclerView
 import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseFragment
 import com.charging.animation.mobile.battery.custom.view.loadImage
-import com.charging.animation.mobile.battery.databinding.FragmentMobileBinding
+import com.charging.animation.mobile.battery.databinding.FragmentMobileUpdateBinding
 import com.charging.animation.mobile.battery.model.Mobile
 
-class MobileFragment : BaseFragment<FragmentMobileBinding, MobileViewModel>() {
+class MobileFragment : BaseFragment<FragmentMobileUpdateBinding, MobileViewModel>() {
     private var mobileAdapter: MobileAdapter? = null
     var list: MutableList<Mobile> = mutableListOf()
-    override fun getViewBinding(): FragmentMobileBinding= FragmentMobileBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentMobileUpdateBinding= FragmentMobileUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): MobileViewModel =  viewModels<MobileViewModel>().value
 

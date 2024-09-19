@@ -22,14 +22,14 @@ import androidx.recyclerview.widget.RecyclerView
 import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.ActivityRingtoneBinding
+import com.charging.animation.mobile.battery.databinding.ActivityRingtoneUpdateBinding
 import com.charging.animation.mobile.battery.fragment.alarm.RingtoneAdapter
 import com.charging.animation.mobile.battery.listener.Listener
 import com.charging.animation.mobile.battery.model.Ringtone
 import com.charging.animation.mobile.battery.util.Data
 
 @Suppress("DEPRECATION")
-class RingtoneActivity : BaseActivity<ActivityRingtoneBinding, RingtoneViewModel>() {
+class RingtoneActivity : BaseActivity<ActivityRingtoneUpdateBinding, RingtoneViewModel>() {
     private var adapter: RingtoneAdapter? = null
     private var list: List<Ringtone>? = null
     private var ringtone: Ringtone? = null
@@ -38,7 +38,7 @@ class RingtoneActivity : BaseActivity<ActivityRingtoneBinding, RingtoneViewModel
     private var isPermission = false
     private var count = 0
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityRingtoneBinding = ActivityRingtoneBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityRingtoneUpdateBinding = ActivityRingtoneUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): RingtoneViewModel = viewModels<RingtoneViewModel>().value
     override fun init() {

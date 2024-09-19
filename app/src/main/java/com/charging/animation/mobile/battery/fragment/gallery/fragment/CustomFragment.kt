@@ -16,16 +16,16 @@ import com.charging.animation.mobile.battery.api.Results
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
 import com.charging.animation.mobile.battery.database.Database
-import com.charging.animation.mobile.battery.databinding.FragmentCustomBinding
+import com.charging.animation.mobile.battery.databinding.FragmentCustomUpdateBinding
 import com.charging.animation.mobile.battery.fragment.gallery.GalleryViewModel
 import com.charging.animation.mobile.battery.fragment.gallery.adapter.GalleryAdapter
 import com.charging.animation.mobile.battery.listener.Listener
 
 @Suppress("DEPRECATION")
-class CustomFragment : BaseFragment<FragmentCustomBinding, GalleryViewModel>() {
+class CustomFragment : BaseFragment<FragmentCustomUpdateBinding, GalleryViewModel>() {
     var adapterGallery: GalleryAdapter? = null
     lateinit var listGallery: MutableList<Results>
-    override fun getViewBinding(): FragmentCustomBinding = FragmentCustomBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentCustomUpdateBinding = FragmentCustomUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): GalleryViewModel =  viewModels<GalleryViewModel>().value
 

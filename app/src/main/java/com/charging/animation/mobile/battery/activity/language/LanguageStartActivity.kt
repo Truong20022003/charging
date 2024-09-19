@@ -4,20 +4,17 @@ import android.content.Intent
 import android.view.LayoutInflater
 import androidx.activity.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
-
 import com.charging.animation.mobile.battery.activity.language.model.LanguageModel
 import com.charging.animation.mobile.battery.activity.tutorial.TutorialActivity
 import com.charging.animation.mobile.battery.api.CommonAds
-import com.charging.animation.mobile.battery.custom.view.loadImage
-import com.charging.animation.mobile.battery.databinding.ActivityLanguageStartBinding
+import com.charging.animation.mobile.battery.custom.view.tap
+import com.charging.animation.mobile.battery.databinding.ActivityLanguageStartUpdateBinding
 import com.charging.animation.mobile.battery.util.SharedPreferencesRepository
 import com.charging.animation.mobile.battery.util.SystemUtil
-import com.charging.animation.mobile.battery.custom.view.tap
 
 
-class LanguageStartActivity : BaseActivity<ActivityLanguageStartBinding, LanguageViewModel>() {
+class LanguageStartActivity : BaseActivity<ActivityLanguageStartUpdateBinding, LanguageViewModel>() {
 
     private lateinit var languageAdapter: LanguageStartAdapter
     var langDevice = "en"
@@ -62,8 +59,8 @@ class LanguageStartActivity : BaseActivity<ActivityLanguageStartBinding, Languag
 
     }
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityLanguageStartBinding =
-        ActivityLanguageStartBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityLanguageStartUpdateBinding =
+        ActivityLanguageStartUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): LanguageViewModel = viewModels<LanguageViewModel>().value
 

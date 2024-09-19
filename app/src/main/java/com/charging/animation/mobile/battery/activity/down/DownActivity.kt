@@ -18,15 +18,15 @@ import androidx.activity.viewModels
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import com.bumptech.glide.Glide
 import com.charging.animation.mobile.battery.R
+import com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.down.dialog.ProcessingDialog
-import com.charging.animation.mobile.battery.activity.apply.ApplyAnimationActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.api.Results
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
 import com.charging.animation.mobile.battery.database.Database
-import com.charging.animation.mobile.battery.databinding.ActivityDownBinding
+import com.charging.animation.mobile.battery.databinding.ActivityDownUpdateBinding
 import com.charging.animation.mobile.battery.dialog.DialogWatchAds
 import com.charging.animation.mobile.battery.listener.Listener
 import com.charging.animation.mobile.battery.util.Constants
@@ -38,15 +38,15 @@ import eightbitlab.com.blurview.RenderScriptBlur
 import java.io.File
 
 @Suppress("DEPRECATION")
-class DownActivity : BaseActivity<ActivityDownBinding, DownViewModel>() {
+class DownActivity : BaseActivity<ActivityDownUpdateBinding, DownViewModel>() {
     var name: String? = null
     var path: String? = null
     var results: Results? = null
     var dialog: ProcessingDialog? = null
 
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityDownBinding =
-        ActivityDownBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityDownUpdateBinding =
+        ActivityDownUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): DownViewModel = viewModels<DownViewModel>().value
 

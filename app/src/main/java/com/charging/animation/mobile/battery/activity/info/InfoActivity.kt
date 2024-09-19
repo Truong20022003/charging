@@ -8,11 +8,11 @@ import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.info.adapter.TopAdapter
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.ActivityInfoBinding
+import com.charging.animation.mobile.battery.databinding.ActivityInfoUpdateBinding
 
 @Suppress("DEPRECATION")
-class InfoActivity : BaseActivity<ActivityInfoBinding, InfoViewModel>() {
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityInfoBinding = ActivityInfoBinding.inflate(layoutInflater)
+class InfoActivity : BaseActivity<ActivityInfoUpdateBinding, InfoViewModel>() {
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityInfoUpdateBinding = ActivityInfoUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): InfoViewModel =  viewModels<InfoViewModel>().value
 

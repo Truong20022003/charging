@@ -6,10 +6,10 @@ import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseFragment
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.FragmentGalleryBinding
+import com.charging.animation.mobile.battery.databinding.FragmentGalleryUpdateBinding
 import com.charging.animation.mobile.battery.fragment.gallery.adapter.TopAdapter
 
-class GalleryFragment : BaseFragment<FragmentGalleryBinding, GalleryViewModel>() {
+class GalleryFragment : BaseFragment<FragmentGalleryUpdateBinding, GalleryViewModel>() {
 
     private var homeAdapter: TopAdapter? = null
     override fun init() {
@@ -60,7 +60,7 @@ class GalleryFragment : BaseFragment<FragmentGalleryBinding, GalleryViewModel>()
 
     }
 
-    override fun getViewBinding(): FragmentGalleryBinding = FragmentGalleryBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentGalleryUpdateBinding = FragmentGalleryUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): GalleryViewModel =  viewModels<GalleryViewModel>().value
 

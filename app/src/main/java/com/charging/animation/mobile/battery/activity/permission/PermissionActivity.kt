@@ -14,28 +14,25 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
-import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.annotation.RequiresApi
 import androidx.core.app.ActivityCompat
-import com.bumptech.glide.Glide
 import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.main.MainActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.loadImage
-import com.charging.animation.mobile.battery.databinding.ActivityPermnissionBinding
-import com.charging.animation.mobile.battery.util.SystemUtil
 import com.charging.animation.mobile.battery.custom.view.tap
+import com.charging.animation.mobile.battery.databinding.ActivityPermnissionUpdateBinding
+import com.charging.animation.mobile.battery.util.SystemUtil
 import eightbitlab.com.blurview.BlurAlgorithm
 import eightbitlab.com.blurview.RenderEffectBlur
 import eightbitlab.com.blurview.RenderScriptBlur
-import java.util.*
 
-class PermissionActivity : BaseActivity<ActivityPermnissionBinding, PermissionViewModel>() {
+class PermissionActivity : BaseActivity<ActivityPermnissionUpdateBinding, PermissionViewModel>() {
     private var checkStorage = false
 
     private fun getBlurAlgorithm(): BlurAlgorithm {
@@ -64,8 +61,8 @@ class PermissionActivity : BaseActivity<ActivityPermnissionBinding, PermissionVi
 
     }
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityPermnissionBinding =
-        ActivityPermnissionBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityPermnissionUpdateBinding =
+        ActivityPermnissionUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): PermissionViewModel = viewModels<PermissionViewModel>().value
     override fun init() {

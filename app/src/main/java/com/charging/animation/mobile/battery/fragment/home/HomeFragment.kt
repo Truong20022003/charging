@@ -24,7 +24,7 @@ import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.api.Results
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.FragmentHomeBinding
+import com.charging.animation.mobile.battery.databinding.FragmentHomeUpdateBinding
 import com.charging.animation.mobile.battery.fragment.home.adapter.AnimContentAndAdsAdapter
 import com.charging.animation.mobile.battery.fragment.home.adapter.CategoryAdapter
 import com.charging.animation.mobile.battery.fragment.home.model.CategoryModel
@@ -36,12 +36,12 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
 @Suppress("DEPRECATION")
-class HomeFragment : BaseFragment<FragmentHomeBinding, HomeViewModel>() {
+class HomeFragment : BaseFragment<FragmentHomeUpdateBinding, HomeViewModel>() {
     private var list: MutableList<Results> = mutableListOf()
     private var adapter: AnimContentAndAdsAdapter? = null
     private var adapterCategory: CategoryAdapter? = null
     private var nameCategory = ""
-    override fun getViewBinding(): FragmentHomeBinding = FragmentHomeBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentHomeUpdateBinding = FragmentHomeUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): HomeViewModel = viewModels<HomeViewModel>().value
 

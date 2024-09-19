@@ -56,6 +56,10 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color-v31/m3_ref_palette_dynamic_neutral22.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_spalsh_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_spalsh_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/animator_m3_extended_fab_show_motion_spec.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/animator/m3_extended_fab_show_motion_spec.xml"
     },
@@ -102,6 +106,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_abc_tooltip.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_apply_animation_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_apply_animation_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_dialog_add_gif.xml.flat",
@@ -272,6 +280,10 @@
         "source": "com.charging.animation.mobile.battery.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_first_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_first_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_gallery_btn_select.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/gallery_btn_select.xml"
     },
@@ -424,10 +436,6 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-mdpi/bg_ad_ads2.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_gallery.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_gallery.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi_ic_per.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xhdpi/ic_per.png"
     },
@@ -492,10 +500,6 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_no_internet.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_no_internet.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_abc_seekbar_track_material.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable/abc_seekbar_track_material.xml"
     },
@@ -522,10 +526,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_home.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_home.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -616,6 +616,10 @@
         "source": "com.charging.animation.mobile.battery.app-main-66:/drawable-nodpi/flag_de.png"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_setting_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxxhdpi_home_dot_2.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxxhdpi/home_dot_2.png"
     },
@@ -630,10 +634,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/menu_menu_bottom.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-main-66:/menu/menu_bottom.xml"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_info.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_info.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_dialog_setting_done.xml.flat",
@@ -670,10 +670,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-mdpi_ic_dot_true.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-mdpi/ic_dot_true.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_success.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_success.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_material_timepicker_clockface.xml.flat",
@@ -840,6 +836,10 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/layout/abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_language_start_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_start_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_ic_about.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/ic_about.png"
     },
@@ -884,10 +884,6 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/m3_tabs_text_color_secondary.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_first.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_first.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi_ic_charging_animtion.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-hdpi/ic_charging_animtion.png"
     },
@@ -898,10 +894,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-ldpi_ic_done_langmain.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-ldpi/ic_done_langmain.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_mobile.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_mobile.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/interpolator-v21_m3_sys_motion_easing_standard.xml.flat",
@@ -976,10 +968,6 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/m3_text_button_ripple_color_selector.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_language_setting.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_setting.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1034,6 +1022,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_mtrl_tabs_icon_color_selector_colored.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_setting_and_alarm_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting_and_alarm_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_m3_bottom_sheet_drag_handle_color.xml.flat",
@@ -1604,6 +1596,10 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/layout/design_layout_tab_text.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_down_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_down_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi_bg_ad_ads2.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xhdpi/bg_ad_ads2.png"
     },
@@ -1716,10 +1712,6 @@
         "source": "com.charging.animation.mobile.battery.app-ssp-android-1.1.0-8:/layout/sp_example.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_animation.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_animation.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_main_ic_select_gallery.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/main_ic_select_gallery.png"
     },
@@ -1822,6 +1814,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_ic_charging_home.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/ic_charging_home.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_home_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_home_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_item_menu_country.xml.flat",
@@ -2080,6 +2076,10 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/color/abc_tint_edittext.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_animationupdate.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_animationupdate.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_main_ic_home2.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/main_ic_home2.png"
     },
@@ -2178,6 +2178,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_ringtone_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_ringtone_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_dowm_bg_applly.xml.flat",
@@ -2372,10 +2376,6 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/animator/m3_elevated_chip_state_list_anim.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_language_start.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_start.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_m3_bottom_sheet_drag_handle.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/drawable/m3_bottom_sheet_drag_handle.xml"
     },
@@ -2472,10 +2472,6 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_custom.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_custom.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_mtrl_popupmenu_overlay_color.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/mtrl_popupmenu_overlay_color.xml"
     },
@@ -2510,6 +2506,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_ic_launcher_background.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_tutorial_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_tutorial_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_ic_m3_chip_check.xml.flat",
@@ -2668,10 +2668,6 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/bg_native.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_tutorial.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_tutorial.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-ldpi_bg_ad_ads2.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-ldpi/bg_ad_ads2.png"
     },
@@ -2812,6 +2808,10 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_second_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_second_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxxhdpi_main_ic_gallery2.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxxhdpi/main_ic_gallery2.png"
     },
@@ -2940,6 +2940,10 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/animator/mtrl_extended_fab_hide_motion_spec.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_battery_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_battery_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_new_language_pt.png.flat",
         "source": "com.charging.animation.mobile.battery.app-main-66:/drawable/new_language_pt.png"
     },
@@ -2952,16 +2956,16 @@
         "source": "com.charging.animation.mobile.battery.app-core-1.13.0-5:/drawable-xhdpi-v4/ic_call_decline_low.png"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_language_setting_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_language_setting_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_mtrl_navigation_item_background_color.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/mtrl_navigation_item_background_color.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
         "source": "com.charging.animation.mobile.battery.app-core-1.13.0-5:/drawable-hdpi-v4/ic_call_decline_low.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_ringtone.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_ringtone.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_ic_charging_animtion.xml.flat",
@@ -3172,6 +3176,10 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/layout-land/material_clock_period_toggle_land.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_info_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_info_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-ldpi_dowm_bg_wallpaper.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-ldpi/dowm_bg_wallpaper.png"
     },
@@ -3352,10 +3360,6 @@
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_apply_animation.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_apply_animation.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
@@ -3382,10 +3386,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_down.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_down.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/animator_m3_extended_fab_hide_motion_spec.xml.flat",
@@ -3470,6 +3470,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_custom_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_custom_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_bg_home_btn.png.flat",
@@ -3572,10 +3576,6 @@
         "source": "com.charging.animation.mobile.battery.app-main-66:/raw/animation.json"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_main.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_main.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_ic_rating_4.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/ic_rating_4.xml"
     },
@@ -3630,6 +3630,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_success_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_success_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_mtrl_switch_track_tint.xml.flat",
@@ -3714,10 +3718,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi_ic_rating_1.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-hdpi/ic_rating_1.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_setting.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
@@ -3976,10 +3976,6 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_second.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_second.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "com.charging.animation.mobile.battery.app-core-1.13.0-5:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
@@ -4148,10 +4144,6 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-hdpi/ic_language.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_permnission.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_permnission.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color-v31_m3_ref_palette_dynamic_neutral_variant12.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color-v31/m3_ref_palette_dynamic_neutral_variant12.xml"
     },
@@ -4312,14 +4304,6 @@
         "source": "com.charging.animation.mobile.battery.app-main-66:/drawable/main_bg_bottom.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_setting_and_alarm.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_setting_and_alarm.xml"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_alarm.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_alarm.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi_ic_dot_true.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-hdpi/ic_dot_true.png"
     },
@@ -4440,10 +4424,6 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-mdpi/dialog_setting_item.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_down.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_down.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_ic_buttom_feedback_true.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/ic_buttom_feedback_true.png"
     },
@@ -4474,6 +4454,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/animator_design_fab_show_motion_spec.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_down_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_down_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_design_navigation_item.xml.flat",
@@ -4616,6 +4600,10 @@
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_no_internet_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_no_internet_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/anim-v21_mtrl_bottom_sheet_slide_in.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
     },
@@ -4658,6 +4646,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-mdpi_dowm_bg_btn.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-mdpi/dowm_bg_btn.png"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_main_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_main_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_m3_chip_stroke_color.xml.flat",
@@ -4708,12 +4700,12 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/ic_btn_galary_2.png"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_policy.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_policy.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi_second_background.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xxhdpi/second_background.png"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_gallery_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_gallery_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_m3_tabs_icon_color_secondary.xml.flat",
@@ -4850,10 +4842,6 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xhdpi_new_ic_tick.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-xhdpi/new_ic_tick.png"
-    },
-    {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_spalsh.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_spalsh.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
@@ -5052,10 +5040,6 @@
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/ic_bg_main.xml"
     },
     {
-        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_battery.xml.flat",
-        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_battery.xml"
-    },
-    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_dialog_watch_ads.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-main-66:/layout/dialog_watch_ads.xml"
     },
@@ -5190,6 +5174,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-appcompat-1.6.1-33:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_mobile_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_mobile_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-ldpi_ic_bg_main.png.flat",
@@ -5336,6 +5324,10 @@
         "source": "com.charging.animation.mobile.battery.app-main-66:/drawable/border_ads_lang4.xml"
     },
     {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_policy_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_policy_update.xml"
+    },
+    {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/color_m3_slider_inactive_track_color.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-material-1.12.0-10:/color/m3_slider_inactive_track_color.xml"
     },
@@ -5434,6 +5426,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-anydpi-v24_home_img_loading.xml.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-anydpi-v24/home_img_loading.xml"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_fragment_alarm_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/fragment_alarm_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-hdpi_ic_btn_galary_2.png.flat",
@@ -5662,6 +5658,10 @@
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/drawable-mdpi_ic_switch_on.png.flat",
         "source": "com.charging.animation.mobile.battery.app-pngs-59:/drawable-mdpi/ic_switch_on.png"
+    },
+    {
+        "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_activity_permnission_update.xml.flat",
+        "source": "com.charging.animation.mobile.battery.app-main-66:/layout/activity_permnission_update.xml"
     },
     {
         "merged": "com.charging.animation.mobile.battery.app-merged_res-64:/layout_abc_screen_simple_overlay_action_mode.xml.flat",

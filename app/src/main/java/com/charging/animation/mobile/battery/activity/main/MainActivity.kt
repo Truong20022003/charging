@@ -38,7 +38,7 @@ import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.api.Results
 import com.charging.animation.mobile.battery.custom.view.tap
 import com.charging.animation.mobile.battery.database.Database
-import com.charging.animation.mobile.battery.databinding.ActivityMainBinding
+import com.charging.animation.mobile.battery.databinding.ActivityMainUpdateBinding
 import com.charging.animation.mobile.battery.dialog.ExitDialog
 import com.charging.animation.mobile.battery.dialog.RatingDialog
 import com.charging.animation.mobile.battery.dialog.RatingDialog.OnPress
@@ -54,14 +54,14 @@ import eightbitlab.com.blurview.RenderEffectBlur
 import eightbitlab.com.blurview.RenderScriptBlur
 
 @Suppress("DEPRECATION")
-class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
+class MainActivity : BaseActivity<ActivityMainUpdateBinding, MainViewModel>() {
     private var bottomAdapter: BottomAdapter? = null
     private var checkGallery = false
     private var checkAlarm = false
     private var count = 0
     private var alertDialog: AlertDialog? = null
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityMainBinding = ActivityMainBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityMainUpdateBinding = ActivityMainUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): MainViewModel =  viewModels<MainViewModel>().value
 

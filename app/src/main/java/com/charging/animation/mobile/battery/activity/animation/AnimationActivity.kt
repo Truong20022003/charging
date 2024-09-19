@@ -22,7 +22,7 @@ import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.ActivityAnimationBinding
+import com.charging.animation.mobile.battery.databinding.ActivityAnimationupdateBinding
 import com.charging.animation.mobile.battery.util.Data
 import eightbitlab.com.blurview.BlurAlgorithm
 import eightbitlab.com.blurview.RenderEffectBlur
@@ -33,11 +33,11 @@ import java.util.Date
 import java.util.Locale
 
 @Suppress("DEPRECATION")
-class AnimationActivity : BaseActivity<ActivityAnimationBinding, AnimationViewModel>() {
+class AnimationActivity : BaseActivity<ActivityAnimationupdateBinding, AnimationViewModel>() {
     private var doubleBackToExitPressedOnce = false
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityAnimationBinding =
-        ActivityAnimationBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityAnimationupdateBinding =
+        ActivityAnimationupdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): AnimationViewModel = viewModels<AnimationViewModel>().value
 

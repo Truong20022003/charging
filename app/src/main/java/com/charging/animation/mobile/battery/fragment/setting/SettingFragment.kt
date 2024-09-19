@@ -27,7 +27,7 @@ import com.charging.animation.mobile.battery.activity.main.MainActivity
 import com.charging.animation.mobile.battery.activity.policy.PolicyActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.FragmentSettingBinding
+import com.charging.animation.mobile.battery.databinding.FragmentSettingUpdateBinding
 import com.charging.animation.mobile.battery.dialog.RatingDialog
 import com.charging.animation.mobile.battery.dialog.RatingDialog.OnPress
 import com.charging.animation.mobile.battery.fragment.alarm.AlarmFragment
@@ -41,15 +41,15 @@ import com.google.android.play.core.review.ReviewManagerFactory
 import java.util.Locale
 
 @Suppress("DEPRECATION")
-class SettingFragment : BaseFragment<FragmentSettingBinding, SettingViewModel>() {
+class SettingFragment : BaseFragment<FragmentSettingUpdateBinding, SettingViewModel>() {
     private var isService = false
     private var isPercent = false
     private var isLive = false
     private var intent: Intent? = null
     private var isShare = false
 
-    override fun getViewBinding(): FragmentSettingBinding =
-        FragmentSettingBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentSettingUpdateBinding =
+        FragmentSettingUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): SettingViewModel = viewModels<SettingViewModel>().value
 

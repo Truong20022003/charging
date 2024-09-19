@@ -9,13 +9,13 @@ import androidx.annotation.Nullable;
 import com.charging.animation.mobile.battery.activity.main.MainActivity;
 import com.charging.animation.mobile.battery.api.CommonAds;
 import com.charging.animation.mobile.battery.base.BaseFragment;
-import com.charging.animation.mobile.battery.databinding.FragmentFirstBinding;
+import com.charging.animation.mobile.battery.databinding.FragmentFirstUpdateBinding;
 
-public class FirstFragment extends BaseFragment<FragmentFirstBinding> {
+public class FirstFragment extends BaseFragment<FragmentFirstUpdateBinding> {
     @NonNull
     @Override
-    public FragmentFirstBinding getViewBinding() {
-        return FragmentFirstBinding.inflate(getLayoutInflater());
+    public FragmentFirstUpdateBinding getViewBinding() {
+        return FragmentFirstUpdateBinding.inflate(getLayoutInflater());
     }
 
     @Override

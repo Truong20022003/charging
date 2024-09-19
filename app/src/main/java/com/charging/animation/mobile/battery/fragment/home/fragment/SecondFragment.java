@@ -9,27 +9,25 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.BatteryManager;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.charging.animation.mobile.battery.R;
 import com.charging.animation.mobile.battery.base.BaseFragment;
-import com.charging.animation.mobile.battery.databinding.FragmentSecondBinding;
+import com.charging.animation.mobile.battery.databinding.FragmentSecondUpdateBinding;
 import com.charging.animation.mobile.battery.model.Battery;
 import com.charging.animation.mobile.battery.receiver.AnimationReceiver;
 import com.charging.animation.mobile.battery.util.Util;
 
-public class SecondFragment extends BaseFragment<FragmentSecondBinding> {
+public class SecondFragment extends BaseFragment<FragmentSecondUpdateBinding> {
 
     Battery battery;
     boolean isCharging;
     @NonNull
     @Override
-    public FragmentSecondBinding getViewBinding() {
-        return FragmentSecondBinding.inflate(getLayoutInflater());
+    public FragmentSecondUpdateBinding getViewBinding() {
+        return FragmentSecondUpdateBinding.inflate(getLayoutInflater());
     }
 
     @Override

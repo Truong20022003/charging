@@ -6,25 +6,22 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.activity.viewModels
 import com.bumptech.glide.Glide
-import com.charging.animation.mobile.battery.Common
 import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.internet.NoInternetActivity
 import com.charging.animation.mobile.battery.activity.language.LanguageStartActivity
-import com.charging.animation.mobile.battery.activity.main.MainActivity
-import com.charging.animation.mobile.battery.activity.permission.PermissionActivity
 import com.charging.animation.mobile.battery.api.CommonAds
-import com.charging.animation.mobile.battery.databinding.ActivitySpalshBinding
+import com.charging.animation.mobile.battery.databinding.ActivitySpalshUpdateBinding
 import com.charging.animation.mobile.battery.util.CheckInternet
 import com.charging.animation.mobile.battery.util.Constants
 
 
 @SuppressLint("CustomSplashScreen")
 @Suppress("DEPRECATION")
-class SplashActivity : BaseActivity<ActivitySpalshBinding, SplashViewModel>() {
+class SplashActivity : BaseActivity<ActivitySpalshUpdateBinding, SplashViewModel>() {
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivitySpalshBinding =
-        ActivitySpalshBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivitySpalshUpdateBinding =
+        ActivitySpalshUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): SplashViewModel = viewModels<SplashViewModel>().value
 

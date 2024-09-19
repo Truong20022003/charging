@@ -1,6 +1,5 @@
 package com.charging.animation.mobile.battery.activity.success
 
-import android.content.Intent
 import android.view.LayoutInflater
 import androidx.activity.viewModels
 import com.charging.animation.mobile.battery.R
@@ -9,12 +8,12 @@ import com.charging.animation.mobile.battery.activity.main.MainActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.ActivitySuccessBinding
+import com.charging.animation.mobile.battery.databinding.ActivitySuccessUpdateBinding
 
 @Suppress("DEPRECATION")
-class SuccessActivity : BaseActivity<ActivitySuccessBinding, SuccessViewModel>() {
+class SuccessActivity : BaseActivity<ActivitySuccessUpdateBinding, SuccessViewModel>() {
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivitySuccessBinding = ActivitySuccessBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivitySuccessUpdateBinding = ActivitySuccessUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): SuccessViewModel = viewModels<SuccessViewModel>().value
     override fun init() {

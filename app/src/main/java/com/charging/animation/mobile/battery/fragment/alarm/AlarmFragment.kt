@@ -20,7 +20,7 @@ import com.charging.animation.mobile.battery.activity.ring.RingtoneActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.FragmentAlarmBinding
+import com.charging.animation.mobile.battery.databinding.FragmentAlarmUpdateBinding
 import com.charging.animation.mobile.battery.receiver.AnimationReceiver
 import com.charging.animation.mobile.battery.service.FullBatterService
 import com.charging.animation.mobile.battery.service.HighService
@@ -28,11 +28,11 @@ import com.charging.animation.mobile.battery.service.LowService
 import com.charging.animation.mobile.battery.util.Data
 
 @Suppress("DEPRECATION")
-class AlarmFragment : BaseFragment<FragmentAlarmBinding, AlarmViewModel>() {
+class AlarmFragment : BaseFragment<FragmentAlarmUpdateBinding, AlarmViewModel>() {
     private var isHigh = false
     private var isService = false
     private var isLow = false
-    override fun getViewBinding(): FragmentAlarmBinding = FragmentAlarmBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentAlarmUpdateBinding = FragmentAlarmUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): AlarmViewModel = viewModels<AlarmViewModel>().value
 

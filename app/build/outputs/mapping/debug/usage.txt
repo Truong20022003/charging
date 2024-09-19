@@ -14673,9 +14673,9 @@ com.charging.animation.mobile.battery.databinding.DialogFeedbackBinding
 com.charging.animation.mobile.battery.databinding.DialogOverlayPermissonBinding
 com.charging.animation.mobile.battery.databinding.DialogRatingApp2Binding
 com.charging.animation.mobile.battery.databinding.DialogWatchAdsBinding
-com.charging.animation.mobile.battery.databinding.FragmentFirstBinding
-com.charging.animation.mobile.battery.databinding.FragmentSecondBinding
-com.charging.animation.mobile.battery.databinding.FragmentSettingAndAlarmBinding
+com.charging.animation.mobile.battery.databinding.FragmentFirstUpdateBinding
+com.charging.animation.mobile.battery.databinding.FragmentSecondUpdateBinding
+com.charging.animation.mobile.battery.databinding.FragmentSettingAndAlarmUpdateBinding
 com.charging.animation.mobile.battery.databinding.ItemContentAnimBinding
 com.charging.animation.mobile.battery.databinding.ItemCountryBinding
 com.charging.animation.mobile.battery.databinding.ItemFragmentHomeItemCategoryBinding:

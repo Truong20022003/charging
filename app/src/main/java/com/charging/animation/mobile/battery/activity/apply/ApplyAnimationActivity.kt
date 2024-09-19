@@ -32,7 +32,7 @@ import com.charging.animation.mobile.battery.activity.success.SuccessActivity
 import com.charging.animation.mobile.battery.api.CommonAds
 import com.charging.animation.mobile.battery.custom.view.loadImage
 import com.charging.animation.mobile.battery.custom.view.tap
-import com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationBinding
+import com.charging.animation.mobile.battery.databinding.ActivityApplyAnimationUpdateBinding
 import com.charging.animation.mobile.battery.databinding.LayoutWalpaperSelectOptionBinding
 import com.charging.animation.mobile.battery.dialog.DialogSetting
 import com.charging.animation.mobile.battery.listener.Listener
@@ -50,14 +50,14 @@ import java.util.Locale
 
 @Suppress("DEPRECATION")
 class ApplyAnimationActivity :
-    BaseActivity<ActivityApplyAnimationBinding, ApplyAnimationViewModel>() {
+    BaseActivity<ActivityApplyAnimationUpdateBinding, ApplyAnimationViewModel>() {
     var link: String? = ""
     var type = 0
     private var isClicked = false
     private var isPermission = false
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityApplyAnimationBinding =
-        ActivityApplyAnimationBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityApplyAnimationUpdateBinding =
+        ActivityApplyAnimationUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): ApplyAnimationViewModel =
         viewModels<ApplyAnimationViewModel>().value

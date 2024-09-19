@@ -21,15 +21,15 @@ import androidx.fragment.app.viewModels
 import com.charging.animation.mobile.battery.R
 import com.charging.animation.mobile.battery.activity.base.BaseFragment
 import com.charging.animation.mobile.battery.custom.view.loadImage
-import com.charging.animation.mobile.battery.databinding.FragmentBatteryBinding
+import com.charging.animation.mobile.battery.databinding.FragmentBatteryUpdateBinding
 import com.charging.animation.mobile.battery.model.Battery
 import com.charging.animation.mobile.battery.receiver.AnimationReceiver
 import com.charging.animation.mobile.battery.util.Util
 
-class BatteryFragment : BaseFragment<FragmentBatteryBinding, BatteryViewModel>() {
+class BatteryFragment : BaseFragment<FragmentBatteryUpdateBinding, BatteryViewModel>() {
     var battery: Battery? = null
     var isCharging = false
-    override fun getViewBinding(): FragmentBatteryBinding = FragmentBatteryBinding.inflate(layoutInflater)
+    override fun getViewBinding(): FragmentBatteryUpdateBinding = FragmentBatteryUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): BatteryViewModel = viewModels<BatteryViewModel>().value
 

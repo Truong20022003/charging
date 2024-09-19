@@ -16,16 +16,16 @@ import com.charging.animation.mobile.battery.activity.base.BaseActivity
 import com.charging.animation.mobile.battery.activity.main.MainActivity
 import com.charging.animation.mobile.battery.activity.permission.PermissionActivity
 import com.charging.animation.mobile.battery.api.CommonAds
-import com.charging.animation.mobile.battery.databinding.ActivityTutorialBinding
+import com.charging.animation.mobile.battery.custom.view.tap
+import com.charging.animation.mobile.battery.databinding.ActivityTutorialUpdateBinding
 import com.charging.animation.mobile.battery.model.TutorialModel
 import com.charging.animation.mobile.battery.util.Data
 import com.charging.animation.mobile.battery.util.SharePrefUtils
-import com.charging.animation.mobile.battery.custom.view.tap
 import eightbitlab.com.blurview.BlurAlgorithm
 import eightbitlab.com.blurview.RenderEffectBlur
 import eightbitlab.com.blurview.RenderScriptBlur
 
-class TutorialActivity : BaseActivity<ActivityTutorialBinding, TutorialViewModel>() {
+class TutorialActivity : BaseActivity<ActivityTutorialUpdateBinding, TutorialViewModel>() {
     var list: MutableList<TutorialModel> = mutableListOf()
     var adapter: TutorialAdapter? = null
     private var check = 0
@@ -115,8 +115,8 @@ class TutorialActivity : BaseActivity<ActivityTutorialBinding, TutorialViewModel
         })
     }
 
-    override fun setBinding(layoutInflater: LayoutInflater): ActivityTutorialBinding =
-        ActivityTutorialBinding.inflate(layoutInflater)
+    override fun setBinding(layoutInflater: LayoutInflater): ActivityTutorialUpdateBinding =
+        ActivityTutorialUpdateBinding.inflate(layoutInflater)
 
     override fun setViewModel(): TutorialViewModel = viewModels<TutorialViewModel>().value
 
@@ -224,6 +224,7 @@ class TutorialActivity : BaseActivity<ActivityTutorialBinding, TutorialViewModel
 
 
     override fun onBackPressed() {
+        super.onBackPressed()
         finishAffinity()
     }
 }
